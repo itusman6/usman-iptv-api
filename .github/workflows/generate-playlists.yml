@@ -3,7 +3,7 @@ name: Generate M3U Playlists
 on:
   schedule:
     # Every 30 minutes. GitHub cron is UTC and best-effort (may be delayed).
-    - cron: '*/30 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
