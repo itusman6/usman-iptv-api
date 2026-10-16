@@ -1,525 +1,272 @@
-
 #!/usr/bin/env python3
 """
-Generate converge.m3u from Supabase.
+Build converge.m3u — Kodi-compatible playlist with:
+  - channel name
+  - channel logo (tvg-logo)
+  - HLS stream URL
+  - DRM info (Kodi property) if MPD/DRM
+  - required HTTP headers (Kodi property)
 
-Features:
-- Concurrent channel retrieval with thread-local HTTP sessions
-- Retries for temporary HTTP failures
-- CryptoJS/OpenSSL Salted__ AES-256-CBC decryption
-- Kodi HLS/MPD metadata and required stream headers
-- Ordered playlist output and generation timestamp
-- Validation before replacing the output file
+Fast threaded version. Also stamps a generation timestamp into the
+playlist header so every run produces a git diff.
 """
 
-import os
-import sys
-import time
 import base64
 import hashlib
-import logging
-import threading
-
+import sys
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import quote
 
 import requests
-from requests.adapters import HTTPAdapter
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
 
 # ============================================================
-# CONFIGURATION
+# CONFIG
 # ============================================================
-
 PROJECT_REF = "tkqgxdfxortnpstxedpy"
 BASE = f"https://{PROJECT_REF}.supabase.co"
 
-API_KEY = os.environ.get("SUPABASE_ANON_KEY", "").strip()
-PASSPHRASE = os.environ.get("STREAM_PASSPHRASE", "")
+API_KEY = ("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9."
+           "eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRrcWd4ZGZ4b3J0bnBzdHhlZHB5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcxMjAwMjEsImV4cCI6MjA5MjY5NjAyMX0."
+           "N6pkXrRdMH_hzp5FNf8yEVSpk6-AWZMG-7XF5V5genY")
 
-OUT_FILE = Path("converge.m3u")
-MAX_WORKERS = 8
-MIN_CHANNELS = 10
-HTTP_TIMEOUT = (10, 30)
-MAX_RETRIES = 3
+PASSPHRASE = "eeboot41k2a.p.t"
+OUT_FILE = "converge.m3u"
+
+# How many channels to fetch in parallel.
+MAX_WORKERS = 16
 
 STREAM_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/154.0.0.0 Safari/537.36"
-    ),
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/154.0.0.0 Safari/537.36"),
     "Referer": "https://gproject.netlify.app/",
-    "Origin": "https://gproject.netlify.app",
+    "Origin":  "https://gproject.netlify.app",
 }
 
-thread_local = threading.local()
+API_HEADERS = {
+    "apikey": API_KEY,
+    "Authorization": f"Bearer {API_KEY}",
+    "Content-Type": "application/json",
+    "Origin": "https://gproject.netlify.app",
+    "Referer": "https://gproject.netlify.app/",
+}
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s %(levelname)s %(message)s",
-)
-
-
-# ============================================================
-# HTTP SESSION
-# ============================================================
-
-def get_session() -> requests.Session:
-    """Create one HTTP session per worker thread."""
-    session = getattr(thread_local, "session", None)
-
-    if session is None:
-        session = requests.Session()
-        session.headers.update({
-            "apikey": API_KEY,
-            "Authorization": f"Bearer {API_KEY}",
-            "Content-Type": "application/json",
-            "Origin": "https://gproject.netlify.app",
-            "Referer": "https://gproject.netlify.app/",
-            "User-Agent": STREAM_HEADERS["User-Agent"],
-        })
-
-        adapter = HTTPAdapter(
-            pool_connections=MAX_WORKERS,
-            pool_maxsize=MAX_WORKERS,
-            max_retries=0,
-        )
-        session.mount("https://", adapter)
-        session.mount("http://", adapter)
-
-        thread_local.session = session
-
-    return session
-
-
-def request_with_retries(method, url, **kwargs):
-    """Retry temporary network failures and HTTP 5xx/429 responses."""
-    last_error = None
-
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            response = get_session().request(
-                method,
-                url,
-                timeout=HTTP_TIMEOUT,
-                **kwargs,
-            )
-
-            if response.status_code == 429 or response.status_code >= 500:
-                status = response.status_code
-                response.close()
-                raise requests.HTTPError(
-                    f"Temporary HTTP status {status}"
-                )
-
-            response.raise_for_status()
-            return response
-
-        except (requests.RequestException, ValueError) as exc:
-            last_error = exc
-
-            if attempt == MAX_RETRIES:
-                break
-
-            delay = min(2 ** (attempt - 1), 8)
-            logging.warning(
-                "Request attempt %d/%d failed: %s; retrying in %ds",
-                attempt, MAX_RETRIES, exc, delay,
-            )
-            time.sleep(delay)
-
-    raise RuntimeError(
-        f"Request failed after {MAX_RETRIES} attempts: {last_error}"
-    ) from last_error
+SESSION = requests.Session()
+SESSION.headers.update(API_HEADERS)
 
 
 # ============================================================
-# DECRYPTION
+# DECRYPT (CryptoJS / OpenSSL Salted__)
 # ============================================================
-
 def decrypt_cryptojs(encrypted_b64: str, password: str) -> str:
-    """
-    Decrypt CryptoJS/OpenSSL salted AES-256-CBC data.
-
-    Expected format:
-        Base64("Salted__" + 8-byte salt + ciphertext)
-    """
-    if not encrypted_b64 or not password:
+    if not encrypted_b64:
         return ""
+    try:
+        data = base64.b64decode(encrypted_b64)
+    except Exception:
+        return ""
+    if data[:8] != b"Salted__":
+        return ""
+
+    salt = data[8:16]
+    ciphertext = data[16:]
+
+    key = b""
+    prev = b""
+    while len(key) < 32:
+        prev = hashlib.md5(prev + password.encode("utf-8") + salt).digest()
+        key += prev
+    key = key[:32]
+    iv = hashlib.md5(prev + password.encode("utf-8") + salt).digest()[:16]
 
     try:
-        data = base64.b64decode(encrypted_b64, validate=True)
-
-        if len(data) < 32 or data[:8] != b"Salted__":
-            return ""
-
-        salt = data[8:16]
-        ciphertext = data[16:]
-
-        if len(ciphertext) == 0 or len(ciphertext) % AES.block_size:
-            return ""
-
-        # OpenSSL EVP_BytesToKey using MD5.
-        material = b""
-        previous = b""
-
-        while len(material) < 48:
-            previous = hashlib.md5(
-                previous + password.encode("utf-8") + salt
-            ).digest()
-            material += previous
-
-        key = material[:32]
-        iv = material[32:48]
-
         cipher = AES.new(key, AES.MODE_CBC, iv)
-        plaintext = unpad(
-            cipher.decrypt(ciphertext),
-            AES.block_size,
-        )
-
-        return plaintext.decode("utf-8")
-
-    except (
-        ValueError,
-        UnicodeDecodeError,
-        base64.binascii.Error,
-    ):
+        pt = unpad(cipher.decrypt(ciphertext), AES.block_size)
+        return pt.decode("utf-8")
+    except Exception:
         return ""
 
 
 # ============================================================
-# SUPABASE API
+# API
 # ============================================================
-
 def get_all_channels() -> list:
     url = f"{BASE}/rest/v1/channels"
-
     params = {
-        "select": (
-            "id,name,logo_url,category_id,stream_type,"
-            "sort_order,is_active"
-        ),
-        "order": "id.asc",
+        "select": "id,name,logo_url,category_id,stream_type,sort_order,is_active",
+        "order":  "id.asc",
     }
-
-    response = request_with_retries("GET", url, params=params)
-
-    try:
-        data = response.json()
-    finally:
-        response.close()
-
-    if not isinstance(data, list):
-        raise RuntimeError(
-            "Supabase channel-list response was not a JSON array"
-        )
-
-    return data
+    r = SESSION.get(url, params=params, timeout=30)
+    r.raise_for_status()
+    return r.json()
 
 
 def get_channel_details(channel_id: int) -> dict:
     url = f"{BASE}/functions/v1/get-channel"
-
-    response = request_with_retries(
-        "POST",
-        url,
-        json={"id": channel_id},
-    )
-
-    try:
-        data = response.json()
-    finally:
-        response.close()
-
-    if not isinstance(data, dict):
-        raise RuntimeError(
-            f"Unexpected response for channel {channel_id}"
-        )
-
-    # Support either a direct object or a wrapped response.
-    if isinstance(data.get("data"), dict):
-        data = data["data"]
-
-    return data
+    last_exc = None
+    for attempt in range(3):
+        try:
+            r = SESSION.post(url, json={"id": channel_id}, timeout=30)
+            r.raise_for_status()
+            return r.json()
+        except Exception as e:
+            last_exc = e
+            time.sleep(0.5 * (attempt + 1))
+    raise last_exc
 
 
 # ============================================================
-# PLAYLIST HELPERS
+# HELPERS
 # ============================================================
-
-def classify_stream(
-    stream_url: str,
-    stream_type: str,
-    drm_key_id: str,
-    drm_key: str,
-) -> str:
-    url = (stream_url or "").lower()
-    stream_type = (stream_type or "").lower()
-
-    if ".mpd" in url:
+def classify_stream(stream_url: str, stream_type: str,
+                    drm_key_id: str, drm_key: str) -> str:
+    u = (stream_url or "").lower()
+    if u.endswith(".mpd") or ".mpd?" in u or "manifest.mpd" in u:
         return "mpd"
-
-    if ".m3u8" in url:
+    if u.endswith(".m3u8") or ".m3u8?" in u:
         return "hls"
-
     if stream_type in ("dash", "mpd"):
         return "mpd"
-
     if stream_type in ("hls", "m3u8", "live"):
         return "hls"
-
     return stream_type or "hls"
 
 
+def has_drm(drm_key_id: str, drm_key: str) -> bool:
+    return bool(drm_key_id and drm_key)
+
+
 def kodi_header_props(headers: dict) -> str:
-    return "&".join(
-        f"{key}={quote(str(value), safe='')}"
-        for key, value in headers.items()
-    )
+    return "&".join(f"{k}={v}" for k, v in headers.items())
 
 
-def format_entry(
-    name: str,
-    logo: str,
-    group: str,
-    url: str,
-    kind: str,
-    drm_key_id: str,
-    drm_key: str,
-) -> list:
-    lines = [
-        "#KODIPROP:inputstream.adaptive.stream_headers="
-        + kodi_header_props(STREAM_HEADERS)
+def format_entry(name: str, logo: str, group: str, url: str,
+                 kind: str, drm_key_id: str, drm_key: str) -> list:
+    lines = []
+
+    meta = [
+        f'tvg-id="{name}"',
+        f'tvg-name="{name}"',
+        f'tvg-logo="{logo}"',
+        f'group-title="{group}"',
     ]
 
-    if kind == "mpd":
-        lines.append(
-            "#KODIPROP:inputstream.adaptive.manifest_type=mpd"
-        )
-
-        # Add DRM metadata only when configured for authorized playback.
-        if drm_key_id and drm_key:
-            lines.append(
-                "#KODIPROP:inputstream.adaptive.license_type=clearkey"
-            )
-            lines.append(
-                "#KODIPROP:inputstream.adaptive.license_key="
-                f"{drm_key_id}:{drm_key}"
-            )
-    else:
-        lines.append(
-            "#KODIPROP:inputstream.adaptive.manifest_type=hls"
-        )
-
-    # Escape double quotes in metadata values.
-    def safe(value):
-        return str(value or "").replace('"', "'").replace("\n", " ")
-
-    meta = (
-        f'tvg-id="{safe(name)}" '
-        f'tvg-name="{safe(name)}" '
-        f'tvg-logo="{safe(logo)}" '
-        f'group-title="{safe(group)}"'
+    lines.append(
+        "#KODIPROP:inputstream.adaptive.stream_headers="
+        + kodi_header_props(STREAM_HEADERS)
     )
 
-    lines.append(f"#EXTINF:-1 {meta},{safe(name)}")
-    lines.append(url)
+    if kind == "mpd" and has_drm(drm_key_id, drm_key):
+        lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
+        lines.append(
+            f"#KODIPROP:inputstream.adaptive.license_key={drm_key_id}:{drm_key}"
+        )
+        lines.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
+    elif kind == "mpd":
+        lines.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
+    else:
+        lines.append("#KODIPROP:inputstream.adaptive.manifest_type=hls")
 
+    lines.append("#EXTINF:-1 " + " ".join(meta) + f",{name}")
+    lines.append(url)
     return lines
 
 
 # ============================================================
-# CHANNEL WORKER
+# WORKER
 # ============================================================
+def process_channel(idx: int, ch: dict) -> dict:
+    cid   = ch.get("id")
+    name  = ch.get("name") or f"Channel {cid}"
+    logo  = ch.get("logo_url") or ""
+    group = ch.get("category_id") or "General"
+    stype = ch.get("stream_type") or "hls"
+    active = ch.get("is_active", True)
 
-def process_channel(index: int, channel: dict) -> dict:
-    channel_id = channel.get("id")
-    name = channel.get("name") or f"Channel {channel_id}"
-
-    if channel.get("is_active", True) is False:
-        return {
-            "idx": index,
-            "name": name,
-            "status": "inactive",
-            "lines": None,
-        }
+    if not active:
+        return {"idx": idx, "name": name, "status": "inactive", "lines": None}
 
     try:
-        details = get_channel_details(channel_id)
+        details = get_channel_details(cid)
+    except Exception as e:
+        return {"idx": idx, "name": name, "status": f"api_error: {e}", "lines": None}
 
-        encrypted_url = details.get("stream_url", "")
-        encrypted_kid = details.get("drm_key_id", "")
-        encrypted_key = details.get("drm_key", "")
+    enc_url = details.get("stream_url", "")
+    enc_kid = details.get("drm_key_id", "")
+    enc_key = details.get("drm_key", "")
 
-        stream_url = decrypt_cryptojs(encrypted_url, PASSPHRASE)
+    stream_url = decrypt_cryptojs(enc_url, PASSPHRASE)
+    drm_key_id = decrypt_cryptojs(enc_kid, PASSPHRASE) if enc_kid else ""
+    drm_key    = decrypt_cryptojs(enc_key, PASSPHRASE) if enc_key else ""
 
-        if not stream_url:
-            return {
-                "idx": index,
-                "name": name,
-                "status": "decrypt_failed_or_missing_url",
-                "lines": None,
-            }
+    if not stream_url:
+        return {"idx": idx, "name": name, "status": "decrypt_failed", "lines": None}
 
-        # Preserve the API's DRM metadata for configured playback.
-        drm_key_id = (
-            decrypt_cryptojs(encrypted_kid, PASSPHRASE)
-            if encrypted_kid else ""
-        )
-        drm_key = (
-            decrypt_cryptojs(encrypted_key, PASSPHRASE)
-            if encrypted_key else ""
-        )
+    kind = classify_stream(stream_url, stype, drm_key_id, drm_key)
+    drm  = has_drm(drm_key_id, drm_key)
 
-        stream_type = channel.get("stream_type") or "hls"
+    lines = format_entry(
+        name=name, logo=logo, group=group,
+        url=stream_url, kind=kind,
+        drm_key_id=drm_key_id, drm_key=drm_key,
+    )
 
-        kind = classify_stream(
-            stream_url, stream_type, drm_key_id, drm_key
-        )
-
-        lines = format_entry(
-            name=name,
-            logo=channel.get("logo_url") or "",
-            group=str(channel.get("category_id") or "General"),
-            url=stream_url,
-            kind=kind,
-            drm_key_id=drm_key_id,
-            drm_key=drm_key,
-        )
-
-        return {
-            "idx": index,
-            "name": name,
-            "status": kind,
-            "lines": lines,
-        }
-
-    except Exception as exc:
-        return {
-            "idx": index,
-            "name": name,
-            "status": f"error: {exc}",
-            "lines": None,
-        }
+    return {"idx": idx, "name": name,
+            "status": f"{kind}{' DRM' if drm else ''}",
+            "lines": lines}
 
 
 # ============================================================
 # MAIN
 # ============================================================
-
 def main():
-    if not API_KEY:
-        raise RuntimeError(
-            "SUPABASE_ANON_KEY environment variable is missing"
-        )
-
-    if not PASSPHRASE:
-        raise RuntimeError(
-            "STREAM_PASSPHRASE environment variable is missing"
-        )
-
-    started = time.time()
-
-    logging.info("Fetching Supabase channel list")
+    t0 = time.time()
+    print("[*] Fetching channel list...")
     channels = get_all_channels()
+    total = len(channels)
+    print(f"[+] Got {total} channel(s) — {MAX_WORKERS} workers\n")
 
-    if not channels:
-        raise RuntimeError(
-            "Supabase returned zero channels; refusing to overwrite output"
-        )
-
-    logging.info(
-        "Received %d channels; using %d workers",
-        len(channels), MAX_WORKERS,
-    )
-
-    results = {}
-    failures = 0
+    results: dict[int, dict] = {}
+    done = 0
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
-        futures = {
-            pool.submit(process_channel, index, channel): index
-            for index, channel in enumerate(channels, 1)
-        }
-
-        for future in as_completed(futures):
-            index = futures[future]
-
+        futures = [pool.submit(process_channel, i, ch)
+                   for i, ch in enumerate(channels, 1)]
+        for fut in as_completed(futures):
             try:
-                result = future.result()
-            except Exception as exc:
-                failures += 1
-                logging.error("Worker %d failed: %s", index, exc)
+                res = fut.result()
+            except Exception as e:
+                print(f"[!] worker error: {e}")
                 continue
+            results[res["idx"]] = res
+            done += 1
+            print(f"[{done:4d}/{total}] {res['name']:<45} {res['status']}")
 
-            results[result["idx"]] = result
-
-            if result["lines"]:
-                logging.info(
-                    "[%d/%d] %s: %s",
-                    len(results), len(channels),
-                    result["name"], result["status"],
-                )
-            else:
-                failures += 1
-                logging.warning(
-                    "[%d] %s: %s",
-                    index, result["name"], result["status"],
-                )
-
-    output = [
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    out_lines = [
         "#EXTM3U",
-        "# generated: "
-        + datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        f"# generated: {now}",
     ]
-
     written = 0
+    for i in range(1, total + 1):
+        res = results.get(i)
+        if not res or not res["lines"]:
+            continue
+        out_lines.extend(res["lines"])
+        written += 1
 
-    for index in range(1, len(channels) + 1):
-        result = results.get(index)
-
-        if result and result["lines"]:
-            output.extend(result["lines"])
-            written += 1
-
-    logging.info(
-        "Successful channels: %d; failed/inactive: %d",
-        written, failures,
-    )
-
-    if written < MIN_CHANNELS:
-        raise RuntimeError(
-            f"Only {written} usable channels; minimum is {MIN_CHANNELS}. "
-            "Existing output was not overwritten."
-        )
-
-    # Write a temporary file first so a failed write won't destroy
-    # an existing valid playlist.
-    temporary = OUT_FILE.with_suffix(".m3u.tmp")
-    temporary.write_text(
-        "\n".join(output) + "\n",
-        encoding="utf-8",
-    )
-    temporary.replace(OUT_FILE)
-
-    logging.info(
-        "Wrote %s with %d entries in %.1f seconds",
-        OUT_FILE, written, time.time() - started,
-    )
+    Path(OUT_FILE).write_text("\n".join(out_lines) + "\n", encoding="utf-8")
+    print(f"\n[✓] Wrote {OUT_FILE}  ({written} entries)  in {time.time() - t0:.1f}s")
 
 
 if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        logging.error("Interrupted")
-        sys.exit(130)
-    except Exception:
-        logging.exception("Playlist generation failed")
+        print("\n[!] Aborted by user")
         sys.exit(1)
