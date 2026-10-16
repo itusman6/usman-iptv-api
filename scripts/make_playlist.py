@@ -145,12 +145,12 @@ def kodi_header_props(headers: dict) -> str:
     return "&".join(f"{k}={v}" for k, v in headers.items())
 
 
-def format_entry(cid: int, name: str, logo: str, group: str, url: str,
+def format_entry(name: str, logo: str, group: str, url: str,
                  kind: str, drm_key_id: str, drm_key: str) -> list:
     lines = []
 
     meta = [
-        f'tvg-id="{cid}"',
+        f'tvg-id="{name}"',
         f'tvg-name="{name}"',
         f'tvg-logo="{logo}"',
         f'group-title="{group}"',
@@ -181,11 +181,11 @@ def format_entry(cid: int, name: str, logo: str, group: str, url: str,
 # WORKER
 # ============================================================
 def process_channel(idx: int, ch: dict) -> dict:
-    cid    = ch.get("id")
-    name   = ch.get("name") or f"Channel {cid}"
-    logo   = ch.get("logo_url") or ""
-    group  = ch.get("category_id") or "General"
-    stype  = ch.get("stream_type") or "hls"
+    cid   = ch.get("id")
+    name  = ch.get("name") or f"Channel {cid}"
+    logo  = ch.get("logo_url") or ""
+    group = ch.get("category_id") or "General"
+    stype = ch.get("stream_type") or "hls"
     active = ch.get("is_active", True)
 
     if not active:
@@ -211,7 +211,7 @@ def process_channel(idx: int, ch: dict) -> dict:
     drm  = has_drm(drm_key_id, drm_key)
 
     lines = format_entry(
-        cid=cid, name=name, logo=logo, group=group,
+        name=name, logo=logo, group=group,
         url=stream_url, kind=kind,
         drm_key_id=drm_key_id, drm_key=drm_key,
     )
