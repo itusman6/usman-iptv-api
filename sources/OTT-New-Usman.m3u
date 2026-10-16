@@ -1,0 +1,415 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3SAT" tvg-name="3SAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",3SAT
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bef45d69a359c3c5ab265b807b0b11ee:3572bdc32850a0d0e4a95bffd000383c
+https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",CNBC
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2351831e4519c8a7204669b56d276258:c01f5966265cfb1fce0ec0ad9a317913
+https://ac-009.live.p7s1video.net/d2e237d7/t_009/cnbc/cenc-default.mpd
+#EXTINF:-1 tvg-id="HR" tvg-name="HR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",HR
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d45a7b888a2701789eceeaa9c0e14242:6e240d2ecb90b217093bebaeef96e82c
+https://ac-009.live.p7s1video.net/cc540a89/t_009/hr-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="WELT" tvg-name="WELT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",WELT
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c893d87c99d36257f987a1da9106c41d:7dea33ece5e221d08880539a18d034e3
+https://ac-009.live.p7s1video.net/5797e4e8/t_009/welt-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="N24" tvg-name="N24" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",N24
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15b8b5f7cca000f44f38be4e3e974368:417a3e775e2675859c8b201fb711db98
+https://ac-009.live.p7s1video.net/d2bbc9d3/t_009/n24-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",MTV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de964ef8f9cd50edb55de3e4a1aa9f1f:969e2e74f5a530e9cee1bf68c412e3f8
+https://ac-009.live.p7s1video.net/0e6fdb42/t_009/mtv-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",COMEDY CENTRAL
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c28321a9198e616a8fe0bb36439009:844762d17c7a14a1845094863ceb5293
+https://ac-009.live.p7s1video.net/e1654d96/t_009/comedy-central-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="DF1" tvg-name="DF1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",DF1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2d66770c4c98f6d3e9f850a68269db3:a5865b56f8dca362fc9f5b8320c4a226
+https://ac-009.live.p7s1video.net/3994af13/t_009/df1-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",TLC
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21af4597b725ebda19693606693418f8:8678727ac71a9d2688e40d18cc934364
+https://ac-009.live.p7s1video.net/e24de9d1/t_009/tlc-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="TELE5" tvg-name="TELE5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",TELE5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb9a918eaaa0352446a6d963e2a35b35:acffb24113cd1d81f5945f3bea55c4c3
+https://ac-009.live.p7s1video.net/b96a5f0c/t_009/tele5-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",HGTV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d60703c821a80e752df2c1170d5d7439:5aa8853fe68e46bf240bf4fc005c3604
+https://ac-009.live.p7s1video.net/acca7ed6/t_009/hgtv-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="BBC HISTORY" tvg-name="BBC HISTORY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",BBC HISTORY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=244613123860e20da2498b2bda8b1eae:674d8dfc1d5d6f83bee8e2f799560ae9
+https://ac-009.live.p7s1video.net/6544f62b/t_009/bbc-history-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="CURIOSITY NOW" tvg-name="CURIOSITY NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",CURIOSITY NOW
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5177f0521ea9740aad4374589ff2f151:69ac4a47ab6c04d24ad2280f99a67eeb
+https://ac-009.live.p7s1video.net/f71491f6/t_009/curiosity-now-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="TERRA MATER WILD" tvg-name="TERRA MATER WILD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",TERRA MATER WILD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c36e95103f56097d1db40014ecb268d9:559b58e611bcc6c996d16ed73d6e7c41
+https://ac-009.live.p7s1video.net/fb268c1e/t_009/terra-mater-wild-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="ONETERRA" tvg-name="ONETERRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",ONETERRA
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f73bcf12248c1ff04fe9e1347bff2bc0:388988b1b6be3599395a4cedea4d0847
+https://ac-009.live.p7s1video.net/fa612962/t_003/oneterra-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="SPIEGEL TV ACTION CRIME" tvg-name="SPIEGEL TV ACTION CRIME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",SPIEGEL TV ACTION CRIME
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9d1d8de01178d887ae4608702076dc2:75676a71dd55f83eb739204c230a8ff6
+https://ac-009.live.p7s1video.net/a362e209/t_009/spiegel-tv-action-crime-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="SPIEGEL TV" tvg-name="SPIEGEL TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",SPIEGEL TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10434077ff5f077296dbc40f39e2c233:24f8cd9f8cce625ec55014dde03997e0
+https://ac-009.live.p7s1video.net/49663c58/t_009/spiegel-tv-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",NICKELODEON
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffdbfe565d7afdede6154dfcf366e500:fd9a7a53157516493c1332938b22b6d8
+https://ac-009.live.p7s1video.net/e85065ab/t_009/nickelodeon-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="DELUXE" tvg-name="DELUXE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",DELUXE
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8abf625057f725868e10121f1c2a6bd5:ca533bd6e458fada67d6c011ca4e2c3e
+https://ac-009.live.p7s1video.net/5b816df8/t_009/deluxe-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="RIC" tvg-name="RIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",RIC
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25a71319c9fdcfd3b7b1a6d365e542a7:b197e1e5e3fbb74638491c8b55eb77fb
+https://ac-009.live.p7s1video.net/ff4dc518/t_009/ric/cenc-default.mpd
+#EXTINF:-1 tvg-id="KABELEINS CLASSICS" tvg-name="KABELEINS CLASSICS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",KABELEINS CLASSICS
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3aac6e1d5ad5d8c930947bd8fcbf8fbe:9044c07afc19b1dce88b36265d749dc0
+https://ac-009.live.p7s1video.net/3b8e1ea1/t_009/kabeleinsclassics-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="KRONEHITTV AT" tvg-name="KRONEHITTV AT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",KRONEHITTV AT
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccb6b2930335ccf1de362b2dcfa53882:49854b26f0857b9eb491516793ac56b5
+https://ac-003.live.p7s1video.net/6e5a61c7/t_003/kronehittv-at/cenc-default.mpd
+#EXTINF:-1 tvg-id="DAZN FAST" tvg-name="DAZN FAST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",DAZN FAST
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
+https://ac-009.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="TV MAINFRANKEN" tvg-name="TV MAINFRANKEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",TV MAINFRANKEN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5662a30d19af9fec1d854f37c5ce239:f43bbca74e4e50d77d5a326ba22ec1ee
+https://ac-009.live.p7s1video.net/63dca654/t_009/tv-mainfranken-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="SACHSEN EINS" tvg-name="SACHSEN EINS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",SACHSEN EINS
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acf52ad1fd8c099926117f4017974904:e56d84420a0029a6beba274cd4fa4bda
+https://ac-009.live.p7s1video.net/42006a92/t_009/sachsen-eins-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="ARD PLUS LINDENSTRASSE" tvg-name="ARD PLUS LINDENSTRASSE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",ARD PLUS LINDENSTRASSE
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=626cfcf90ba5735217fcd925ca5cd8d2:1133f44a680917b10f018d1364c82588
+https://ac-009.live.p7s1video.net/a3596acf/t_009/ard-plus-lindenstrasse-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="DEFA" tvg-name="DEFA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",DEFA
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b53a3308699f42e550b40020e22152fb:2acdea97870beaac9ea8a29da14d4041
+https://ac-009.live.p7s1video.net/90ef81a3/t_009/defa-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="TOP FILME" tvg-name="TOP FILME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",TOP FILME
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=534e30ae0edee386886b0ded2bd73514:fbc6aba6b18174c84e1d59220c211384
+https://ac-009.live.p7s1video.net/789ab598/t_009/top-filme-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="ZEE ONE" tvg-name="ZEE ONE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",ZEE ONE
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97560df447ab88922d87f3e6a63559a7:5d6ef2dbca6303829ab70fb0a9d66ef6
+https://ac-009.live.p7s1video.net/18b7a803/t_009/zee-one-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="TOP SCI-FI" tvg-name="TOP SCI-FI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",TOP SCI-FI
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d11db0ba77efcc4c5a3a700e39db698d:3f436ad7f8d15bed8cc3fd6911b3c16e
+https://ac-009.live.p7s1video.net/4afb3401/t_009/top-sci-fi-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="FILMGOLD" tvg-name="FILMGOLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",FILMGOLD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e603533d5d9b02da5fe7ab5ecb5ddd21:b66b78735467717947d18e9abfba6b9a
+https://ac-009.live.p7s1video.net/f5bbcc12/t_009/filmgold-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="HIMMLISCHES KINO" tvg-name="HIMMLISCHES KINO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",HIMMLISCHES KINO
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cffb9fc5589fef5ec7f860a1243f6794:52cd7a9ace74f204bdefb24726d02643
+https://ac-009.live.p7s1video.net/559fb3a9/t_009/himmlisches-kino-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="CRACTION" tvg-name="CRACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",CRACTION
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f690a4a9891774d33fb175b7910c9f3c:73404ca0eb1088a3ba5f8cf99f3b690b
+https://ac-009.live.p7s1video.net/d768e30a/t_009/craction-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="CNN INTERNATIONAL" tvg-name="CNN INTERNATIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",CNN INTERNATIONAL
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8db9656273d70e31c910dd0b73e4636:14c18b444eb4929938abb0bb4733b3f0
+https://ac-009.live.p7s1video.net/c0a1ce6a/t_003/cnn-international-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",BLOOMBERG
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81f153fbb3479cb1fd3ff8c2cd42d4cb:de60587d203b79ec0d65b316616e6a87
+https://ac-009.live.p7s1video.net/ece161ad/t_009/bloomberg/cenc-default.mpd
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",EURONEWS
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff93526dc1d450adaf9fb9a40409ad2e:fa5bf52f62f832e81269cb8f8316d9a7
+https://ac-009.live.p7s1video.net/352fa2b7/t_009/euronews-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="PROSIEBENMAXX" tvg-name="PROSIEBENMAXX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",PROSIEBENMAXX
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f373c6d4b40f79a4036331c5990cf57f:519c560107c16eef0706835744c2971c
+https://ac-009.live.p7s1video.net/4790383b/t_001/prosiebenmaxx-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="SAT1 GOLD" tvg-name="SAT1 GOLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",SAT1 GOLD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a41460f6df3d72e240132eb283f9684f:61779333d8cac9fbf31d957035e45a58
+https://ac-009.live.p7s1video.net/719ea289/t_001/sat1gold-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="MOTORVISION MTS" tvg-name="MOTORVISION MTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",MOTORVISION MTS
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7cf8f27d9b6d7d5ae5392e1f1184678:55a5cfead37b27823751617f6c1cf9f5
+https://ac-009.live.p7s1video.net/a2110085/t_003/motorvision-mts-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="MOTORVISION CLASSIC" tvg-name="MOTORVISION CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",MOTORVISION CLASSIC
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26d80e48304c10591426a95ce0e9c02c:87e24449b3872e72ec55e1980a90a013
+https://ac-009.live.p7s1video.net/bad0d08b/t_003/motorvision-classic-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="OUT TV" tvg-name="OUT TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",OUT TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4fd8440a43745cd011132632a147b41:1226a9b15cb0c4d474961819018a892a
+https://ac-009.live.p7s1video.net/50fb7585/t_009/outtv-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="TALK NOW" tvg-name="TALK NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",TALK NOW
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfa2aca7cda45308af3798e53a6f362e:e40afa59496e93aa688790923c85a672
+https://ac-009.live.p7s1video.net/01556c8c/t_009/talk-now-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="RAN NFL NETWORK" tvg-name="RAN NFL NETWORK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",RAN NFL NETWORK
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b26a662a10074eb0756404c8e90e765a:76e376bd25f92bed939435d982f92d3f
+https://ac-009.live.p7s1video.net/e0e064c8/t_004/ran-nflnetwork-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="REDBULL TV DACH" tvg-name="REDBULL TV DACH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",REDBULL TV DACH
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=defc90f8e34b3858fcc88bbadb12c27e:e328fcbd49649fb9fffca2a5ad21918f
+https://ac-009.live.p7s1video.net/c27f622b/t_009/redbulltv-dach-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="FIFA PLUS" tvg-name="FIFA PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",FIFA PLUS
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e97efc1704fe2a62efd1488652742bf0:5dc1cd4da670038f189bc461d42a3359
+https://ac-009.live.p7s1video.net/5286fd63/t_009/fifa-plus-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="SCOOORE" tvg-name="SCOOORE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",SCOOORE
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d76dedac281956aa61e3a01e9866b61b:774f979d5f481451d516c13ae8d184e2
+https://ac-009.live.p7s1video.net/5c2087ce/t_009/scooore-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="TENNIS CHANNEL" tvg-name="TENNIS CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",TENNIS CHANNEL
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab
+https://ac-009.live.p7s1video.net/e335a8ac/t_009/tennis-channel-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="MOTORVISION" tvg-name="MOTORVISION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",MOTORVISION
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c65ba5d45ee14cf440a42ceee3cdc1d2:6e801f794ce7009135086513a3ae8d9f
+https://ac-009.live.p7s1video.net/e40f44d4/t_003/motorvision-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="NARUTO" tvg-name="NARUTO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",NARUTO
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee17ac0c4b8140e86eae9986917ae27f:47923fc79252a57d2eff8792fb3c2e5b
+https://ac-009.live.p7s1video.net/a11cdebe/t_009/naruto-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="YU GI OH" tvg-name="YU GI OH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",YU GI OH
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8151d28591cbe00fecc783b95d97fc7:118aeb14642c16966313ab42aa650e4f
+https://ac-009.live.p7s1video.net/c34bf72d/t_009/yu-gi-oh-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="JUST FISHING" tvg-name="JUST FISHING" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",JUST FISHING
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b525beda27045ea70ba6518857a7011d:f37df48d935fcb496f88056c34365e84
+https://ac-009.live.p7s1video.net/90969437/t_003/justfishing-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="LANDLUST TV" tvg-name="LANDLUST TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",LANDLUST TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efb9bd9ccd91a0aba31b73277805e1ad:cc1bf0fe5adf34501f1c9b4743d5410f
+https://ac-009.live.p7s1video.net/cf6b1ec4/t_009/landlust-tv-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="SR" tvg-name="SR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",SR
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81b3460b97c9cbbe8d1a855cfe0e19f7:c9895155f385b2d5b3cadd56dc57244c
+https://ac-009.live.p7s1video.net/221cbb40/t_009/sr-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="SWR BW" tvg-name="SWR BW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",SWR BW
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e1ff9256e9ec568621af863c9366a16:0404f37da5b55d3d946607a070ae958e
+https://ac-009.live.p7s1video.net/e081fbe2/t_009/swr-bw-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="SWR RP" tvg-name="SWR RP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",SWR RP
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3efb75b1168069af4f5a2657d6dbed54:907122d3d418740c17c23e455050ea36
+https://ac-009.live.p7s1video.net/346452db/t_009/swr-rp-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="WDR AACHEN" tvg-name="WDR AACHEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",WDR AACHEN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2b91266da318538d92c2eaf303153ec:47bfff00853a76f100566a36893352d8
+https://ac-009.live.p7s1video.net/a71ae65e/t_009/wdr-aachen-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="WDR BIELEFELD" tvg-name="WDR BIELEFELD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",WDR BIELEFELD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb0d39fe9e0158a335a97d6be13e0adc:5ec99d566175175a1ce087befaccdd9a
+https://ac-009.live.p7s1video.net/712665bc/t_009/wdr-bielefeld-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="WDR BONN" tvg-name="WDR BONN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",WDR BONN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d3d50f1dd335dc63516900574710bcd:84ab76507087499e6d5f97841803966a
+https://ac-009.live.p7s1video.net/27ba844b/t_009/wdr-bonn-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="WDR DORTMUND" tvg-name="WDR DORTMUND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",WDR DORTMUND
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3588d9afedfcf4abc4352563655f9725:e4b4726de3922307a95c8ba6146dd47a
+https://ac-009.live.p7s1video.net/bfcc5c5c/t_009/wdr-dortmund-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="WDR DUISBURG" tvg-name="WDR DUISBURG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",WDR DUISBURG
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e7d822f818a195358999d39e237d2bf:1c0054e96d51b90cd45125d8775acaba
+https://ac-009.live.p7s1video.net/4213abde/t_009/wdr-duisburg-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="WDR DUESSELDORF" tvg-name="WDR DUESSELDORF" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",WDR DUESSELDORF
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7324b82bea5fe1459d9793c0cd77ec25:135b27a12a1ae10a9d29fd09b138234b
+https://ac-009.live.p7s1video.net/1c2de94d/t_009/wdr-duesseldorf-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="WDR ESSEN" tvg-name="WDR ESSEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",WDR ESSEN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c22ae1ab07f59d1cb9d45ccf4d5d66fc:287adaee795a226c8ad0458844b6a5cc
+https://ac-009.live.p7s1video.net/9207498a/t_009/wdr-essen-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="JUST COOKING" tvg-name="JUST COOKING" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",JUST COOKING
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d331880f6a4ebe2debfa7ff18c097d8:38fb0ca28d3d5f930cf9bad9f38090a7
+https://ac-009.live.p7s1video.net/bb302c78/t_003/justcooking-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="TV OBERFRANKEN" tvg-name="TV OBERFRANKEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",TV OBERFRANKEN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd01d2b42cbf2cf70609027373d45519:a6492ed7726cb2aadaf7682138ca8b86
+https://ac-009.live.p7s1video.net/90214e1d/t_009/tv-oberfranken-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="PANO WETTER COM" tvg-name="PANO WETTER COM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",PANO WETTER COM
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50862a4733005576acc9ef8bc263c124:7660655757ed58843e24279d12566da2
+https://ac-009.live.p7s1video.net/99ad6f9c/t_009/pano-wetter-com-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="RADIO BREMEN" tvg-name="RADIO BREMEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",RADIO BREMEN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=162ce7512023375d835a83aa8ecc51dd:5d7693c2b60b251e45375c56d2387d17
+https://ac-009.live.p7s1video.net/bf6d5814/t_009/radio-bremen-de-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="TVA OSTBAYERN" tvg-name="TVA OSTBAYERN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",TVA OSTBAYERN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=492fe3ad42bf7daa6e74dcdbcb558539:20e8ae047dc4de7ff9a4bc5b66243590
+https://ac-009.live.p7s1video.net/06f48b32/t_009/tva-ostbayern-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-name="DAZN RISE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",DAZN RISE
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75508caa27239cd34ca45ee862f1bbf2:d38f9f2b690bad3fcc838013242cc5e4
+https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd
+#EXTINF:-1 tvg-id="SAT1" tvg-name="SAT1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",SAT1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
+https://ac-009.live.p7s1video.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
