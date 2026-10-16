@@ -2,7 +2,8 @@ name: Generate-M3U-Playlists
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    # every 15 min, offset 4 min past the hour to avoid the :00/:15/:30/:45 crush
+    - cron: '4,19,34,49 * * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
