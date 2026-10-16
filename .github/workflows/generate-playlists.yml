@@ -2,6 +2,7 @@ name: Generate M3U Playlists
 
 on:
   schedule:
+    # Every 30 min. GitHub cron is UTC and best-effort (may be delayed).
     - cron: '*/5 * * * *'
   workflow_dispatch:
   push:
@@ -10,18 +11,23 @@ on:
       - 'scripts/**'
       - 'sources/**'
       - '.github/workflows/generate-playlists.yml'
+  # Allow manual re-trigger via API even when nothing changed
+  repository_dispatch:
+    types: [regenerate-playlists]
 
+# Needed so the scheduled run can push commits
 permissions:
   contents: write
 
 concurrency:
   group: generate-playlists
-  cancel-in-progress: false
+  # If a run is stuck, don't let it block new scheduled runs forever.
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 20
 
     steps:
       - name: Checkout
@@ -64,7 +70,6 @@ jobs:
 
       # ---------------------------------------------------------
       # 2) Copy sources/*.m3u -> playlists/ WITH fresh timestamp
-      #    so every file has a real diff on every run.
       # ---------------------------------------------------------
       - name: Copy sources -> playlists
         run: |
@@ -85,7 +90,6 @@ jobs:
 
           for ln in raw:
               s = ln.strip()
-              # strip old header lines so we don't stack timestamps
               if s.startswith("#EXTM3U"):
                   continue
               if s.startswith("# generated:") or s.startswith("# updated:"):
@@ -106,7 +110,7 @@ jobs:
           fi
 
       # ---------------------------------------------------------
-      # 3) Rebuild index.m3u with fresh timestamp
+      # 3) Rebuild index.m3u
       # ---------------------------------------------------------
       - name: Build index.m3u
         run: |
@@ -161,7 +165,7 @@ jobs:
           git add -A playlists/
 
           if git diff --cached --quiet; then
-            echo "::warning::Nothing staged. This should NOT happen because every file gets a fresh timestamp."
+            echo "::warning::Nothing staged."
             exit 0
           fi
 
