@@ -1,22 +1,22 @@
 #EXTM3U
-# generated: 2026-10-16T12:43:00Z
-#EXTINF:-1 tvg-id="Amazon" tvg-name="Amazon" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",Amazon [61 ch]
+# generated: 2026-10-16T13:15:52Z
+#EXTINF:-1 tvg-id="Amazon" tvg-name="Amazon" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",Amazon  [61 ch]
 ./Amazon.m3u
-#EXTINF:-1 tvg-id="Antik-Full" tvg-name="Antik-Full" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",Antik-Full [199 ch]
+#EXTINF:-1 tvg-id="Antik-Full" tvg-name="Antik-Full" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",Antik-Full  [199 ch]
 ./Antik-Full.m3u
-#EXTINF:-1 tvg-id="Ciades-Ott" tvg-name="Ciades-Ott" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",Ciades-Ott [80 ch]
+#EXTINF:-1 tvg-id="Ciades-Ott" tvg-name="Ciades-Ott" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",Ciades-Ott  [80 ch]
 ./Ciades-Ott.m3u
-#EXTINF:-1 tvg-id="IzziGo-Usman" tvg-name="IzziGo-Usman" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",IzziGo-Usman [26 ch]
+#EXTINF:-1 tvg-id="IzziGo-Usman" tvg-name="IzziGo-Usman" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",IzziGo-Usman  [26 ch]
 ./IzziGo-Usman.m3u
-#EXTINF:-1 tvg-id="JapanTV" tvg-name="JapanTV" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",JapanTV [22 ch]
+#EXTINF:-1 tvg-id="JapanTV" tvg-name="JapanTV" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",JapanTV  [22 ch]
 ./JapanTV.m3u
-#EXTINF:-1 tvg-id="OTT-New-Usman" tvg-name="OTT-New-Usman" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",OTT-New-Usman [69 ch]
+#EXTINF:-1 tvg-id="OTT-New-Usman" tvg-name="OTT-New-Usman" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",OTT-New-Usman  [69 ch]
 ./OTT-New-Usman.m3u
-#EXTINF:-1 tvg-id="Zappi-Working-Usman" tvg-name="Zappi-Working-Usman" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",Zappi-Working-Usman [61 ch]
+#EXTINF:-1 tvg-id="Zappi-Working-Usman" tvg-name="Zappi-Working-Usman" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",Zappi-Working-Usman  [61 ch]
 ./Zappi-Working-Usman.m3u
-#EXTINF:-1 tvg-id="cignal-latest-geo" tvg-name="cignal-latest-geo" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",cignal-latest-geo [83 ch]
+#EXTINF:-1 tvg-id="cignal-latest-geo" tvg-name="cignal-latest-geo" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",cignal-latest-geo  [83 ch]
 ./cignal-latest-geo.m3u
-#EXTINF:-1 tvg-id="converge-full" tvg-name="converge-full" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",converge-full [103 ch]
+#EXTINF:-1 tvg-id="converge-full" tvg-name="converge-full" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",converge-full  [103 ch]
 ./converge-full.m3u
-#EXTINF:-1 tvg-id="converge" tvg-name="converge" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",converge [923 ch]
+#EXTINF:-1 tvg-id="converge" tvg-name="converge" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",converge  [923 ch]
 ./converge.m3u
