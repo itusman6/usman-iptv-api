@@ -1,13 +1,11 @@
-
-name: Generate M3U Playlists
+name: Generate-M3U-Playlists
 
 on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [ main ]
     paths:
       - 'scripts/**'
       - 'sources/**'
@@ -18,325 +16,199 @@ permissions:
   contents: write
 
 concurrency:
-  group: generate-m3u-playlists
+  group: generate-playlists
   cancel-in-progress: false
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 jobs:
   build:
-    name: Generate and publish M3U playlists
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04          # pinned (matches example) — no apt drift
     timeout-minutes: 30
 
     steps:
-      # 1. Diagnostic information
-      - name: Show run information
-        run: |
-          echo "Event: ${{ github.event_name }}"
-          echo "Branch: ${{ github.ref_name }}"
-          echo "Repository: ${{ github.repository }}"
-          echo "UTC time: $(date -u '+%Y-%m-%d %H:%M:%S')"
-
-      # 2. Checkout latest main
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: main
           fetch-depth: 0
-          persist-credentials: true
+          # NOTE: no custom token — default GITHUB_TOKEN is fine
 
-      # 3. Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'             # requires requirements.txt to exist
 
-      # 4. Install dependencies
-      - name: Install dependencies
-        shell: bash
+      - name: Verify repo layout
         run: |
-          set -euo pipefail
+          test -f requirements.txt || { echo "::error::requirements.txt missing"; exit 1; }
+          test -f scripts/make_playlist.py || { echo "::error::scripts/make_playlist.py missing"; exit 1; }
+          mkdir -p sources playlists
+          ls -la scripts/ sources/ 2>/dev/null || true
 
-          if [ ! -f requirements.txt ]; then
-            echo "::error::requirements.txt not found"
-            exit 1
-          fi
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-          for attempt in 1 2 3; do
-            if python -m pip install --upgrade pip &&
-               python -m pip install -r requirements.txt; then
-              break
-            fi
-
-            if [ "$attempt" -eq 3 ]; then
-              echo "::error::Dependency installation failed"
-              exit 1
-            fi
-
-            echo "Installation attempt $attempt failed; retrying"
-            sleep 10
-          done
-
-      # 5. Check required files and secrets
-      - name: Validate configuration
-        shell: bash
+      # ---------------------------------------------------------
+      # 1) Regenerate converge.m3u
+      # ---------------------------------------------------------
+      - name: Generate converge.m3u
+        id: gen
+        continue-on-error: true
         env:
-          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
-          STREAM_PASSPHRASE: ${{ secrets.STREAM_PASSPHRASE }}
+          PYTHONUNBUFFERED: "1"
+          PYTHONIOENCODING: "utf-8"
         run: |
-          set -euo pipefail
+          python scripts/make_playlist.py
 
-          test -f scripts/make_playlist.py || {
-            echo "::error::scripts/make_playlist.py is missing"
-            exit 1
-          }
-
-          if [ -z "$SUPABASE_ANON_KEY" ]; then
-            echo "::error::Missing SUPABASE_ANON_KEY repository secret"
-            exit 1
-          fi
-
-          if [ -z "$STREAM_PASSPHRASE" ]; then
-            echo "::error::Missing STREAM_PASSPHRASE repository secret"
-            exit 1
-          fi
-
-          mkdir -p playlists sources
-          echo "Configuration checks passed"
-
-      # 6. Generate converge.m3u
-      - name: Generate converge playlist
-        shell: bash
-        env:
-          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
-          STREAM_PASSPHRASE: ${{ secrets.STREAM_PASSPHRASE }}
+      - name: Validate converge.m3u
+        if: always()
         run: |
-          set -euo pipefail
-
-          success=false
-
-          for attempt in 1 2 3; do
-            rm -f converge.m3u
-
-            echo "Generation attempt $attempt of 3"
-
-            if python -u scripts/make_playlist.py &&
-               [ -s converge.m3u ]; then
-              success=true
-              break
-            fi
-
-            if [ "$attempt" -lt 3 ]; then
-              echo "Generation failed; retrying in 10 seconds"
-              sleep 10
-            fi
-          done
-
-          if [ "$success" != true ]; then
-            echo "::error::Playlist generation failed after 3 attempts"
+          if [ ! -f converge.m3u ]; then
+            echo "::error::make_playlist.py did not produce converge.m3u"
             exit 1
           fi
-
-          channels=$(grep -c '^#EXTINF' converge.m3u || true)
-
-          echo "Generated channels: $channels"
-
-          if [ "$channels" -lt 10 ]; then
-            echo "::error::Expected at least 10 channels"
+          n=$(grep -c '^#EXTINF' converge.m3u || echo 0)
+          echo "converge.m3u channels: $n"
+          if [ "$n" -lt 10 ]; then
+            echo "::error::converge.m3u has too few channels ($n)"
             exit 1
           fi
-
           mv -f converge.m3u playlists/converge.m3u
 
-      # 7. Copy sources/*.m3u
-      - name: Copy source playlists
-        shell: bash
+      # ---------------------------------------------------------
+      # 2) Copy sources/*.m3u -> playlists/ WITH fresh timestamp
+      # ---------------------------------------------------------
+      - name: Copy sources -> playlists
         run: |
-          set -euo pipefail
           shopt -s nullglob
-
           count=0
-
           for f in sources/*.m3u; do
             name=$(basename "$f")
-
             python - "$f" "playlists/$name" <<'PY'
           import sys
-          from pathlib import Path
           from datetime import datetime, timezone
+          from pathlib import Path
 
-          src = Path(sys.argv[1])
-          dst = Path(sys.argv[2])
+          src, dst = Path(sys.argv[1]), Path(sys.argv[2])
+          raw = src.read_text(encoding="utf-8", errors="replace").splitlines()
 
-          raw = src.read_text(
-              encoding="utf-8", errors="replace"
-          ).splitlines()
+          now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+          out = ["#EXTM3U", f"# updated: {now}"]
 
-          now = datetime.now(timezone.utc).strftime(
-              "%Y-%m-%dT%H:%M:%SZ"
-          )
-
-          output = ["#EXTM3U", f"# updated: {now}"]
-
-          for line in raw:
-              stripped = line.strip()
-
-              if stripped.startswith("#EXTM3U"):
+          for ln in raw:
+              s = ln.strip()
+              if s.startswith("#EXTM3U"):
                   continue
-              if stripped.startswith("# generated:"):
+              if s.startswith("# generated:") or s.startswith("# updated:"):
                   continue
-              if stripped.startswith("# updated:"):
-                  continue
+              out.append(ln.rstrip())
 
-              output.append(line.rstrip())
+          while out and out[-1] == "":
+              out.pop()
 
-          while output and not output[-1]:
-              output.pop()
-
-          dst.parent.mkdir(parents=True, exist_ok=True)
-          dst.write_text(
-              "\n".join(output) + "\n",
-              encoding="utf-8"
-          )
-
-          print(f"Created {dst}")
+          dst.write_text("\n".join(out) + "\n", encoding="utf-8")
           PY
-
-            channels=$(grep -c '^#EXTINF' "playlists/$name" || true)
-            echo "$name: $channels channels"
-
-            count=$((count + 1))
+            printf "  %-35s %5d channels\n" "$name" "$(grep -c '^#EXTINF' "$f" || echo 0)"
+            count=$((count+1))
           done
-
-          echo "Source playlists processed: $count"
-
+          echo "Copied $count file(s)"
           if [ "$count" -eq 0 ]; then
-            echo "::notice::No source M3U files found in sources/"
+            echo "::warning::no source .m3u files found in sources/"
           fi
 
-      # 8. Rebuild index.m3u
-      - name: Build playlist index
-        shell: bash
+      # ---------------------------------------------------------
+      # 3) Rebuild index.m3u with fresh timestamp
+      # ---------------------------------------------------------
+      - name: Build index.m3u
         run: |
-          set -euo pipefail
-
           python - <<'PY'
-          from pathlib import Path
           from datetime import datetime, timezone
+          from pathlib import Path
 
-          directory = Path("playlists")
-
-          files = sorted(
-              p for p in directory.glob("*.m3u")
-              if p.name != "index.m3u"
-          )
-
-          now = datetime.now(timezone.utc).strftime(
-              "%Y-%m-%dT%H:%M:%SZ"
-          )
+          d = Path("playlists")
+          files = sorted(p for p in d.glob("*.m3u") if p.name != "index.m3u")
+          now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
           lines = ["#EXTM3U", f"# generated: {now}"]
-
           for f in files:
-              content = f.read_text(
-                  encoding="utf-8", errors="replace"
-              ).splitlines()
-
-              count = sum(
-                  line.startswith("#EXTINF")
-                  for line in content
-              )
-
-              name = f.stem
-
+              n = sum(1 for l in f.read_text(encoding="utf-8").splitlines()
+                      if l.startswith("#EXTINF"))
               lines.append(
-                  f'#EXTINF:-1 tvg-id="{name}" '
-                  f'tvg-name="{name}" '
+                  f'#EXTINF:-1 tvg-id="{f.stem}" tvg-name="{f.stem}" '
                   f'tvg-logo="https://i.imgur.com/c7CDrvS.png" '
-                  f'group-title="Playlists",{name} [{count} ch]'
+                  f'group-title="Playlists",{f.stem}  [{n} ch]'
               )
+              lines.append(f'./{f.name}')
 
-              lines.append(f"./{f.name}")
-
-          index = directory / "index.m3u"
-          index.write_text(
-              "\n".join(lines) + "\n",
-              encoding="utf-8"
-          )
-
-          print(f"Index entries: {len(files)}")
-          print(f"Index file: {index}")
-          print(f"Generated: {now}")
+          (d / "index.m3u").write_text("\n".join(lines) + "\n", encoding="utf-8")
+          print(f"index.m3u -> {len(files)} entries @ {now}")
           PY
 
-      # 9. Validate outputs
-      - name: Validate generated playlists
-        shell: bash
+      # ---------------------------------------------------------
+      # 4) Show state
+      # ---------------------------------------------------------
+      - name: Show playlists
+        if: always()
         run: |
-          set -euo pipefail
-
-          test -s playlists/converge.m3u
-          test -s playlists/index.m3u
-
-          channels=$(grep -c '^#EXTINF' playlists/converge.m3u || true)
-
-          if [ "$channels" -lt 10 ]; then
-            echo "::error::converge.m3u failed validation"
-            exit 1
-          fi
-
-          echo "=== Generated files ==="
-          ls -lh playlists/
-
+          echo "=== playlists/ ==="
+          ls -la playlists/ || true
           echo
-          echo "=== Playlist channel counts ==="
-
           for f in playlists/*.m3u; do
-            [ -f "$f" ] || continue
-            count=$(grep -c '^#EXTINF' "$f" || true)
-            printf '%-35s %s channels\n' \
-              "$(basename "$f")" "$count"
+            [ -e "$f" ] || continue
+            n=$(grep -c '^#EXTINF' "$f" || true)
+            printf "  %-35s %5d channels\n" "$(basename "$f")" "$n"
           done
+          echo
+          echo "=== git status --short ==="
+          git status --short
 
-      # 10. Commit and push
-      - name: Commit and push playlists
-        shell: bash
+      # ---------------------------------------------------------
+      # 5) Commit & push WITH RETRY (this was the biggest gap)
+      # ---------------------------------------------------------
+      - name: Commit and push
         run: |
-          set -euo pipefail
-
-          git config user.name "github-actions[bot]"
-          git config user.email \
-            "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add -A playlists/
 
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "::warning::Nothing staged. Every file should have a fresh timestamp."
             exit 0
           fi
 
-          git commit -m \
-            "chore(playlists): regenerate $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          echo "Staged changes:"
+          git diff --cached --name-only
 
-          for attempt in 1 2 3; do
-            git fetch origin main
+          git commit -m "chore(playlists): regenerate $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
 
-            if ! git rebase origin/main; then
-              git rebase --abort || true
-              echo "::error::Rebase failed"
-              exit 1
-            fi
-
+          for i in 1 2 3; do
             if git push origin HEAD:main; then
-              echo "Playlists successfully pushed to main"
+              echo "Push succeeded."
               exit 0
             fi
-
-            echo "Push attempt $attempt failed"
-
-            if [ "$attempt" -lt 3 ]; then
-              sleep 10
-            fi
+            echo "Push attempt $i failed, rebasing and retrying..."
+            git pull --rebase --autostash origin main || true
+            sleep 5
           done
 
-          echo "::error::Failed to push after 3 attempts"
+          echo "::error::Push failed after retries."
           exit 1
+
+      # ---------------------------------------------------------
+      # 6) Artifacts for debugging
+      # ---------------------------------------------------------
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playlists-${{ github.run_number }}
+          path: |
+            playlists/*.m3u
+            checker.log
+          if-no-files-found: warn
+          retention-days: 14
