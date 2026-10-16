@@ -2,7 +2,7 @@ name: Generate-M3U-Playlists
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
