@@ -1,0 +1,306 @@
+#EXTM3U
+# updated: 2026-10-16T10:56:07Z
+#EXTINF:-1 tvg-id="ANC PH" tvg-name="ANC PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/IWant_logo_2025.svg/500px-IWant_logo_2025.svg.png" group-title="ic",ANC PH
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6d6e536f8fa4d8b93627af0128cf00d:e73c8dcfdea374ae576ced342f6c73a2
+https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
+#EXTINF:-1 tvg-id="JEEPNEY TV" tvg-name="JEEPNEY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/IWant_logo_2025.svg/500px-IWant_logo_2025.svg.png" group-title="ic",JEEPNEY TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
+https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
+#EXTINF:-1 tvg-id="KNOWLEDGE CHANNEL" tvg-name="KNOWLEDGE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/IWant_logo_2025.svg/500px-IWant_logo_2025.svg.png" group-title="ic",KNOWLEDGE CHANNEL
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1f88dd3b254514bf7a113188c10dc2:ea86da60f0116f3b92a86acf45b8e071
+https://abslive.akamaized.net/dash/live/2027618/kc/manifest.mpd
+#EXTINF:-1 tvg-id="GMA PINOY TV" tvg-name="GMA PINOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/IWant_logo_2025.svg/500px-IWant_logo_2025.svg.png" group-title="ic",GMA PINOY TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b5d15a7385546768aca9fd505ad5e16:f534393c84c1a9c17fa36bc3a4380981
+https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
+#EXTINF:-1 tvg-id="GMA LIFE TV" tvg-name="GMA LIFE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/IWant_logo_2025.svg/500px-IWant_logo_2025.svg.png" group-title="ic",GMA LIFE TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d308ef487f54107b7da758e195ecbd3:9d4004d4c065dd4b85ad5bd12c35386f
+https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
+#EXTINF:-1 tvg-id="GMA NEWS TV" tvg-name="GMA NEWS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/IWant_logo_2025.svg/500px-IWant_logo_2025.svg.png" group-title="ic",GMA NEWS TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5d848730e4a4f9b962290039dd2b96b:c959dc12f1bff5a66d030117fb7e9855
+https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/IWant_logo_2025.svg/500px-IWant_logo_2025.svg.png" group-title="ic",EURONEWS
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ab8802bff2a49b29518d771b9a9a8bd:51ecbc7e4dc790904c13cebde5eb46fb
+https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd
+#EXTINF:-1 tvg-id="ABC AUSTRALIA" tvg-name="ABC AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/IWant_logo_2025.svg/500px-IWant_logo_2025.svg.png" group-title="ic",ABC AUSTRALIA
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8c98095d1e44569a725ef30fb8682c8:0e1dd4e7374f17a2f44b695227e5843b
+https://abslive.akamaized.net/dash/live/2027618/abc-au/manifest.mpd
+#EXTINF:-1 tvg-id="AMC+" tvg-name="AMC+" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",AMC+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
+#EXTINF:-1 tvg-id="MNX" tvg-name="MNX" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",MNX
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="MOVIES NOW" tvg-name="MOVIES NOW" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",MOVIES NOW
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="MN+" tvg-name="MN+" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",MN+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="ROMEDY NOW" tvg-name="ROMEDY NOW" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",ROMEDY NOW
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="SONY ONE COMEDY HITS" tvg-name="SONY ONE COMEDY HITS" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",SONY ONE COMEDY HITS
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5894EBA80A8AEE9FAB4A925183185D99:fe50655307fbdc2c4989c195423ccecf
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zbz23awyhg/out/v1/f5666ad30e36413098a56bb8fd97c46a/cenc.mpd
+#EXTINF:-1 tvg-id="SONY ONE FAVES" tvg-name="SONY ONE FAVES" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",SONY ONE FAVES
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1B43E3D441B36356BB900D93AC88301B:7cca6e6854c136297e848e9381565b7a
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/m2vhkc7l1y/out/v1/da8d0d3203de4ce497ec6af696d47a4f/cenc.mpd
+#EXTINF:-1 tvg-id="SONY ONE ACTION HITS" tvg-name="SONY ONE ACTION HITS" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",SONY ONE ACTION HITS
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=F923872B58CB63C827A402ED0B52857A:c7fa135ed77f7c42389234846b402b71
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
+#EXTINF:-1 tvg-id="SONY ONE COMEDY TV" tvg-name="SONY ONE COMEDY TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",SONY ONE COMEDY TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=E1CE486C2BD4A4F6C6007A0A7B454EFA:ae46c390767c07d69c65a45d45a75c11
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qd0pqdbqya/out/v1/29261e2484574d678581f85474d2751d/cenc.mpd
+#EXTINF:-1 tvg-id="SONY ONE THRILLER TV" tvg-name="SONY ONE THRILLER TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",SONY ONE THRILLER TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=A948CCE6CB93C4B9D648C9ADA274D246:783e9e314d375f27cade69595fb94bca
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbnukt8csn/out/v1/90f1b14e4b534193b81e0c263ee7810b/cenc.mpd
+#EXTINF:-1 tvg-id="CHANNEL 4" tvg-name="CHANNEL 4" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",CHANNEL 4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+#EXTINF:-1 tvg-id="E4" tvg-name="E4" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",E4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
+#EXTINF:-1 tvg-id="MORE4" tvg-name="MORE4" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",MORE4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+#EXTINF:-1 tvg-id="4SEVEN" tvg-name="4SEVEN" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",4SEVEN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
+#EXTINF:-1 tvg-id="FILM4" tvg-name="FILM4" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",FILM4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+#EXTINF:-1 tvg-id="THE WALKING DEAD CHANNEL" tvg-name="THE WALKING DEAD CHANNEL" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",THE WALKING DEAD CHANNEL
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50a71b1ce9eb116cd7bd98a946d71109:08b8b340baeebca12ef50a52c6ec1d1d
+https://a191aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xocfcvmh5j/out/v1/844e15e5a0bd40c48a5a39ba08d2cd50/cenc.mpd
+#EXTINF:-1 tvg-id="SCIENCE IS AMAZING" tvg-name="SCIENCE IS AMAZING" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",SCIENCE IS AMAZING
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cdce02de4ee021313752bf3f4170fb4:60dbfbe941a0462e0d56a95c7b9e3bee
+https://a82aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/d9iunfir77/out/v1/4c1ded14e2db44d59915910e6dc2284d/cenc.mpd
+#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",UFC
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
+#EXTINF:-1 tvg-id="CINEMA WORLD" tvg-name="CINEMA WORLD" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",CINEMA WORLD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+#EXTINF:-1 tvg-id="BOX HIT" tvg-name="BOX HIT" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",BOX HIT
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/BOXHIT/manifest.mpd
+#EXTINF:-1 tvg-id="BOX MOVIE 1" tvg-name="BOX MOVIE 1" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",BOX MOVIE 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/BM1/manifest.mpd
+#EXTINF:-1 tvg-id="HOLLYWOOD CLASSICS" tvg-name="HOLLYWOOD CLASSICS" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",HOLLYWOOD CLASSICS
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/HC/manifest.mpd
+#EXTINF:-1 tvg-id="HI-YAH" tvg-name="HI-YAH" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",HI-YAH
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-name="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/9970/9970242.png" group-title="ot",MOVIES
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_11/dash.mpd
+#EXTINF:-1 tvg-id="4022 Abante Radyo" tvg-name="4022 Abante Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4022 Abante Radyo
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="4023 Bilyonaryo News Channel" tvg-name="4023 Bilyonaryo News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4023 Bilyonaryo News Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="4033 Hells Kitchen" tvg-name="4033 Hells Kitchen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4033 Hells Kitchen
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amg00654-itv-amg00654c1-samsung-th-9581.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4065 Ani Blast" tvg-name="4065 Ani Blast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4065 Ani Blast
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amg19223-amg19223c9-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="4071 Zee One HD" tvg-name="4071 Zee One HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4071 Zee One HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amg17931-zee-amg17931c6-samsung-ph-6513.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="4079 The Graham Norton Show" tvg-name="4079 The Graham Norton Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4079 The Graham Norton Show
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amg00654-itv-amg00654c35-samsung-th-9580.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4115 K-Content by CJENM  (IN) Substitute" tvg-name="4115 K-Content by CJENM  (IN) Substitute" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4115 K-Content by CJENM  (IN) Substitute
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cc-o7iz6ey4x2e4g.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o7iz6ey4x2e4g/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN49000103E
+#EXTINF:-1 tvg-id="4116 K-Food by CJENM (IN) Substitute" tvg-name="4116 K-Food by CJENM (IN) Substitute" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4116 K-Food by CJENM (IN) Substitute
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cc-nwusx3jrgn2t8.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwusx3jrgn2t8/b2c874a8_68b3_49cb_9435_0264a4d32e4a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN490000951
+#EXTINF:-1 tvg-id="4156 Evolution Earth" tvg-name="4156 Evolution Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4156 Evolution Earth
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amg26277-amg26277c6-samsung-ph-11091.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4505 Duck Dynasty" tvg-name="4505 Duck Dynasty" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4505 Duck Dynasty
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amg26277-amg26277c2-samsung-ph-11103.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4507 Dog the Bounty Hunter" tvg-name="4507 Dog the Bounty Hunter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4507 Dog the Bounty Hunter
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amg26277-amg26277c13-samsung-ph-11095.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4513 Bring IT!" tvg-name="4513 Bring IT!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4513 Bring IT!
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amg26277-amg26277c14-samsung-ph-11099.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4515 Little Women LA" tvg-name="4515 Little Women LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4515 Little Women LA
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amg26277-amg26277c4-samsung-ph-11088.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4625 Red Bull TV" tvg-name="4625 Red Bull TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4625 Red Bull TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="4631 Unbeaten" tvg-name="4631 Unbeaten" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4631 Unbeaten
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amg00721-amg00721c6-samsung-ph-7082.playouts.now.amagi.tv/playlist/amg00721-inverleigh-unbtn3row-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="4856 Kpop by CJENM (IN) Substitute" tvg-name="4856 Kpop by CJENM (IN) Substitute" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4856 Kpop by CJENM (IN) Substitute
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN3800006RD
+#EXTINF:-1 tvg-id="4857 @Kmusic (IN) Substitute" tvg-name="4857 @Kmusic (IN) Substitute" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4857 @Kmusic (IN) Substitute
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%40k-music&channel_id=newid_277&apikey=b97c7a7d0c82424bb607e141ef215779&auth=8047e75c-de975cb9-46a9680e-d55eeb66&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&nh=true&ads.device_dnt=%7BTARGETOPT%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN4900011OU
+#EXTINF:-1 tvg-id="4871 Stingray Pop Adult     " tvg-name="4871 Stingray Pop Adult     " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4871 Stingray Pop Adult
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258008/hls/master.m3u8?ads.xumo_channelId=88258008
+#EXTINF:-1 tvg-id="4872 Stingray 2000s         " tvg-name="4872 Stingray 2000s         " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4872 Stingray 2000s
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258009/hls/master.m3u8?ads.xumo_channelId=88258009
+#EXTINF:-1 tvg-id="4873 Stingray Greatest Hits" tvg-name="4873 Stingray Greatest Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4873 Stingray Greatest Hits
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="4874 Stingray Classic Rock" tvg-name="4874 Stingray Classic Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4874 Stingray Classic Rock
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="4875 Stingray SPA" tvg-name="4875 Stingray SPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4875 Stingray SPA
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="4876 Stingray Easy Listening" tvg-name="4876 Stingray Easy Listening" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4876 Stingray Easy Listening
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="4877 Stingray Hit list      " tvg-name="4877 Stingray Hit list      " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4877 Stingray Hit list
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258007/hls/master.m3u8?ads.xumo_channelId=88258007
+#EXTINF:-1 tvg-id="4879 Stingray Todays K-Pop" tvg-name="4879 Stingray Todays K-Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4879 Stingray Todays K-Pop
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="4933 Strawberry Shortcake   " tvg-name="4933 Strawberry Shortcake   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4933 Strawberry Shortcake
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258006/hls/master.m3u8?ads.xumo_channelId=88258006
+#EXTINF:-1 tvg-id="4934 Sonic the Hedgehog                " tvg-name="4934 Sonic the Hedgehog                " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4934 Sonic the Hedgehog
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258004/hls/master.m3u8?ads.xumo_channelId=88258004
+#EXTINF:-1 tvg-id="4935 Super Mario         " tvg-name="4935 Super Mario         " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4935 Super Mario
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258005/hls/master.m3u8?ads.xumo_channelId=88258005
+#EXTINF:-1 tvg-id="4936 Teletubbies            " tvg-name="4936 Teletubbies            " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Samsung_TV_Plus_logo.png/500px-Samsung_TV_Plus_logo.png" group-title="ss",4936 Teletubbies
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258003/hls/master.m3u8?ads.xumo_channelId=88258003

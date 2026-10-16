@@ -1,0 +1,561 @@
+#EXTM3U
+# updated: 2026-10-16T10:56:07Z
+#EXTINF:-1 tvg-id="Dsports" tvg-name="Dsports" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Dsports
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e11f9758c5c84595b6b2ca213746045b:fe15d82164808a601cbc8590fb476133
+https://ciades.providers.com.ar/DSPORT/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Dsports 2" tvg-name="Dsports 2" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Dsports 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cefb961e85148a2bb6706d192e69f93:d2a62a997c0f8c16b87b7f00b80eb0bb
+https://ciades.providers.com.ar/DSPORT2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",ESPN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22f24724b9ba4b35b43e24c51269f8d7:1b21bee9294b5037a638b7681d57029f
+https://ciades.providers.com.ar/ESPN/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",ESPN 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e01d045ccbf4e24ab49d294ff45930d:63558c6bf7670a8d06fd8150d258a6d5
+https://ciades.providers.com.ar/ESPN2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",ESPN 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4fb8e17ed194b7e816a370d15d65d86:2c7b7a4f26c8e055cbf1eb9d8b19aa81
+https://ciades.providers.com.ar/ESPN3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",ESPN 4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2de1aa6403c425694b3262434c5fe61:1c7d6a5cbc59b8216aa8b7d4129861a0
+https://ciades.providers.com.ar/ESPN4/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",ESPN PREMIUM
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00e08f97d3104d8ba550414f41b48761:ed9c6e30925d4efe6c7374b764c67ec4
+https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="FOX Sports" tvg-name="FOX Sports" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",FOX Sports
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5017e89955f44ff5b4ddf04e5f5151c6:55136a837a0c8bbcfc7ce65cbd9a547c
+https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",FOX Sports 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0e38315c40c4176bab472b349c551ae:d2f1712fc296fee968c7ae0750b2c45b
+https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="FOX Sports 3" tvg-name="FOX Sports 3" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",FOX Sports 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c72cc2fd2ce34ff78b71765fb85f990d:05fcda26315ffe49f178eca1423831f5
+https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",TNT Sports
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=302c2d57aa5c444f86d427508c1c6714:0be2509f8befc2399b9fb7f236b63c7d
+https://ciades.providers.com.ar/TNT_SPORTS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",TyC Sports
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbe265d99e9a4445a4a47bcac4ddc3d8:9cd1be2017b886e452443bec4e37e214
+https://ciades.providers.com.ar/TYC/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Cartoon Network
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da2dde59cf754e6a8858cd46519e2edd:6240ac042f2e28fcf153ad2f6479c5ca
+https://ciades.providers.com.ar/CTN/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Cartoonito
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b2c521e9ba94467bc408ee5c0c8ffb4:e5123b38f420ac82e12f10dda7724c59
+https://ciades.providers.com.ar/CARTOONITO/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Disney Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3efc6a1d8be643b181a4faddecdaaa4a:c1073ade101454cb36535f7cf037ca4c
+https://ciades.providers.com.ar/DISNEYCH/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Disney Jr
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afaf0d996714b68a8cc256a2f064666:27500166177ae95cc56adcc537817439
+https://ciades.providers.com.ar/DISNEYJR/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Discovery Kids
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57ff1c0a7c0c41239892a702611a269f:ec5a63e3ce01666c0e35ac74fc585af6
+https://ciades.providers.com.ar/DISCOVERY_KIDS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Dreamworks
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2efef3f382a84f1189d800924e4f8d86:85016efd8145f3a3b0226dc5fd3c8827
+https://ciades.providers.com.ar/DREAMWORKS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Nickelodeon
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c3d07bd9fec47c482d27885496b6291:4fe1aa25fa0211a1d9828f95e40cf66e
+https://ciades.providers.com.ar/NICK/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Nick Jr
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2297fab372504925b6f7586dd5246d8e:e0a82d546d9627a4d454fb6ca216972e
+https://ciades.providers.com.ar/NICKJUNIOR/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Sony Movies" tvg-name="Sony Movies" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Sony Movies
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53aac4c5873644c4b247672667baf3f7:d0e2ac611a251b9088ca9a874b0e1126
+https://ciades.providers.com.ar/SONY_MOVIE/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Sony
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5df427e119a4617aa92201e0d11b1fb:a4b2819a622fac780ae244c50e2e047c
+https://ciades.providers.com.ar/SONY/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",HBO
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8692bcde0cb747468ee0c0a6dab4bcbd:9dae2ad5ff1d28e0430a2bbeaf1ab1fc
+https://ciades.providers.com.ar/HBO/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",HBO 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a319626ac2054f07990f43ba35535c47:7cd36113800fcbfab64bff7a38144c70
+https://ciades.providers.com.ar/HBO2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",HBO Plus
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9ca01feef7e4de4addb3fe8177fd445:90c0a6dc04a0cba7af26af378ce27645
+https://ciades.providers.com.ar/HBOPLUS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",HBO Family
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5451169dad88420d8a3e37ebe97a73ba:4b81bd4713443691443f52ba421c2e8d
+https://ciades.providers.com.ar/HBOFAMILY/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",HBO Xtreme
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcc1e51d18514e87af7af19ace3f0065:3eed3745b4fa192fb4ccf9087449ba23
+https://ciades.providers.com.ar/HBOXTREME/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",HBO Mundi
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44ed6bd74d6942b6aa4d5d662b4f3f07:44e6a5e0e79dda2e39587c4b9564fc95
+https://ciades.providers.com.ar/HBOMUNDI/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",HBO Pop
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5825a480fdfb40eca9a67cf9b5d08fb1:eb8588c70b41c5b977958ef65e077316
+https://ciades.providers.com.ar/HBOPOP/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",HBO Signature
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a17d1059f3dc4b41ac3111bbea263a38:c8870eb00fb7701e58cf8cfe7d18c264
+https://ciades.providers.com.ar/HBOSIGNATURE/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Universal TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eca8c2ed68e1448d9539fff4c9a7e5d0:46db77ef04ad5c45f1f83b733d43a9bc
+https://ciades.providers.com.ar/UNIVERSAL_CHANNEL/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Cine" tvg-name="Cine" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Cine
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f4370861244f8ebc08cc7a85fc37eb:fbb51aaa0cebf0562c1b3820e3a743fd
+https://ciades.providers.com.ar/CINEAR/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Space
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f9aa91599cb4361a1681f51fd18a937:04ac5c76edd6720a867586c76de082bd
+https://ciades.providers.com.ar/SPACE/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Cinemax
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46c80ad426ab4277b70c4b9fe89a4bca:0b58be9851536a753d6163f0bb82caa7
+https://ciades.providers.com.ar/CINEMAX/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Cinecanal
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5390dac1a9174761bb3b2fa47157c0e1:f246dca86604616d4d1d58baace7f74e
+https://ciades.providers.com.ar/CINECANAL/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",TNT
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8528469a6a4b4838aac56c9b47a625e5:e13e6f0a958f8701cff04ed644d1f301
+https://ciades.providers.com.ar/TNT/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",TNT Series
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23d16f5cb38b407493aa7d35a36920bc:4f1e2d6bddeaf0d082b846f04c41cbc5
+https://ciades.providers.com.ar/TNTSERIES/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Golden
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ba84bd60c09439cba78389947db4852:76205b601638ea2d1c6f5602678f93d9
+https://ciades.providers.com.ar/GOLDEN/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Star Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09485c3719c64e758f6f73436a53ead3:b215105cab25e8e3ac401bb9054d6ed4
+https://ciades.providers.com.ar/STAR/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",FX
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83a282495da34057b08715986cd4d3f7:cc11198fee91df1a72e3d1bcde242ea4
+https://ciades.providers.com.ar/FX/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",A&E
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f083b0803a484b35acf00f856b4eee3a:2384cace8ebaf9a065a12c6a18225591
+https://ciades.providers.com.ar/AYE/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Comedy Central
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2e493ff23fd424c88b1e0851020f3d7:5bc794392d56bb811819dc70d5265582
+https://ciades.providers.com.ar/COMEDIACENTRAL/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Warner TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a319626ac2054f07990f43ba35535c47:7cd36113800fcbfab64bff7a38144c70
+https://ciades.providers.com.ar/WARNER/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",AXN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0eb282ee04544128d6735fe8add8a6c:db14571fc69a640de42765856ef3edfa
+https://ciades.providers.com.ar/AXN/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",AMC
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e32e375ca4d4c2384c1948869419fc9:e98d3138dc0395a4d9f38f1d914b9324
+https://ciades.providers.com.ar/AMC/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Studio Universal
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35e1d45ae2b64ef49d04e51fd97069ac:7e027973a26744692ce12959d53dac50
+https://ciades.providers.com.ar/STUDIO_UNIVERSAL/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Volver" tvg-name="Volver" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Volver
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9aee7ce088a4dee9a58febab2173f42:9652ee7aa3c9286880e2cd3963aaf2dd
+https://ciades.providers.com.ar/VOLVER/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",TCM
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a839f805dd394ee99df39e8167c69408:3fbf03f7dbcd835a3c3127386664ca5c
+https://ciades.providers.com.ar/TCM/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Europa Europa" tvg-name="Europa Europa" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Europa Europa
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c71df621c724c929506f0ab9f252e5f:c5d6819ec247b81dbd004d4b372466af
+https://ciades.providers.com.ar/EUROPA/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Film & Arts" tvg-name="Film & Arts" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Film & Arts
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a209cc35a0d74c52aad7a6f127dc9dc9:338ebea9463203afe65e0974c7afa1e6
+https://ciades.providers.com.ar/FILMSANDARTS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="ãdül† Swin" tvg-name="ãdül† Swin" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",ãdül† Swin
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66be7b8929ae4532b63d9777691a9cce:2bc3c4eaef568c1dea44dc1cdceadf89
+https://ciades.providers.com.ar/ADULTSWIM/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Las Estrellas
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=810d5922270340d8ae5e5605af57ef47:6c4840a055d4a14b96f1c0eb12c0e9ba
+https://ciades.providers.com.ar/CANALDELASESTRELLAS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Chacra TV" tvg-name="Chacra TV" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Chacra TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfce9e66f3ba4fe6a7d3f333c464439a:8c979d89598eb97c1d74a823be21d529
+https://ciades.providers.com.ar/CHACRATV/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="KZO" tvg-name="KZO" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",KZO
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3beeaacf006544e7aa6cec8512536409:3feca33d1cef5c3da18963209767d218
+https://ciades.providers.com.ar/KZO/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Mix TV" tvg-name="Mix TV" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Mix TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f55e4a29ca4d4662b89345db027d1779:51962277171890a9a825f1bc676c6ba6
+https://ciades.providers.com.ar/MIXTV/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",El Nueve
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f53ac7f35724e83942bd409ce66be68:70339faa8062d34b29aafcd534c3c4f8
+https://ciades.providers.com.ar/ELNUEVE/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="América TV" tvg-name="América TV" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",América TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0dbf670ea1084843ae856f13b1739eca:76e10b838963427d1b5651b6d6285db7
+https://ciades.providers.com.ar/AMERICA/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Tlnovelas
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ed4174bf05b4e648dc580879ebc5258:c5826cdffb1d963b2f8f226ec0b61614
+https://ciades.providers.com.ar/TELENOVELAS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",TNT Novelas
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44b69bf2f0d449378c95675bdaf5cad0:14ac35bdd882785a59603569336317b2
+https://ciades.providers.com.ar/TNTNOVELAS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Cuidad Magazine" tvg-name="Cuidad Magazine" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Cuidad Magazine
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fae81fc93e8d4f098cfce1135cb8a872:1857408fb167846cb696d3c94eed8e54
+https://ciades.providers.com.ar/MAGAZINE/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Discovery
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31e6ec1b810043c9a2acd689db6171b5:562939d0e29d372c150449ca903b0bdc
+https://ciades.providers.com.ar/DISCOVERY_CHANNEL/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Discovery ID
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9971462fa0184b9f801a34c7907f24eb: dc46e6959826dfb9957903e6fc0d3158
+https://ciades.providers.com.ar/DISCOVERY_ID/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Nat Geo
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cea695fed3749bbafdc1a0d1892e416:b021a7db7de9a164d33c1a53ff6503ed
+https://ciades.providers.com.ar/NATGEO/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Discovery Theather" tvg-name="Discovery Theather" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Discovery Theather
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a94f1fb7e09c4b86ad6aac21833ecb20:1f1030b0ee6bd8ea4f17eaa641ab1c0c
+https://ciades.providers.com.ar/THEATER/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Discovery World
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=866cfe94fb4b4603a31c627876c883a8:6ff5da10562857d5dd89983568542687
+https://ciades.providers.com.ar/WORLD/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Discovery Science
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2766f77a728b4fa69958f911d5cc9399:f49ef1157ca0d68a1e1686ff87936c96
+https://ciades.providers.com.ar/SCIENCE/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Discovery Turbo
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaf9e7af57b347409f7a604a65e6d464:f5cf5801960647013073f9b6b5922037
+https://ciades.providers.com.ar/DISCOVERY_TURBO/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Animal Planet
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08b8427f9cbc4583bf68f87bc1dc3023:e738fadbe6dccd4cd0e85acb54b9fc70
+https://ciades.providers.com.ar/ANIMAL_PLANET/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",History
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebc341cde9634bfca678c193fb59de6a:c96e79c1dca91b5a562316cbd78a1444
+https://ciades.providers.com.ar/HISTORY/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",History 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a31259de9c441268c17050af69f83ee:963b563347143f52ce26c9cbaf632918
+https://ciades.providers.com.ar/HISTORY2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="DW en Español" tvg-name="DW en Español" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",DW en Español
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bdb36bf0f124480b6d10575d24c13d7:9c12d4358a261bc1c47025dfac1aedc8
+https://ciades.providers.com.ar/DW/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Quiero Música" tvg-name="Quiero Música" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Quiero Música
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b32b120a21904cee810784cd6096893f:dd834fe8fa55b9a54756243874bcdff1
+https://ciades.providers.com.ar/QUIEROMUSICA/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",MTV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58ea93444ef24446ad9e39fd095b9842:4542c900c0cfd05088f537e1ff8567c3
+https://ciades.providers.com.ar/MTV/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="HTV" tvg-name="HTV" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",HTV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ea6b39dd260456bbb8d21dbb611ac4c:0fe5b9eaf03ee747a7955b4665c449c1
+https://ciades.providers.com.ar/HTV/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",El Gourmet
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da5c0e67b6004518a0dc2e5059e5f30c:12331e514c8d333ba6c960b9a156b63c
+https://ciades.providers.com.ar/ELGOURMET/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Food Network
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2471b038bae44cd39531c94364109cae:21d6829a0c23819a6090f49f7715423f
+https://ciades.providers.com.ar/FOODNETWORK/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery H&H" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Discovery H&H
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d79def81522f4bd6949b245a19c331f2:7a2b8ea6fe9c0c3b8f0d2a94ba4fd1c4
+https://ciades.providers.com.ar/HYH/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",HGTV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f15ff062bea4800bade9d71d95b397d:babcaa0df085d0d41ece94d3b6187ef3
+https://ciades.providers.com.ar/HGTV/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",TLC
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828c5dd2bf4142d18975a7d677392328:011fafa6e4879c08a6fb526d585e7ae1
+https://ciades.providers.com.ar/TLC/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",E! Entertainment
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba1d6d67d34844a4adb457ccb66bd641:d4740f95189dc19a6d7185821c5392ee
+https://ciades.providers.com.ar/ENTRETEINEME/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4

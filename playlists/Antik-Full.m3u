@@ -1,0 +1,1208 @@
+#EXTM3U
+# updated: 2026-10-16T10:56:07Z
+#EXTINF:-1 tvg-id="Jednotka" tvg-name="Jednotka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Jednotka
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/nvidia_jednotka/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Dvojka" tvg-name="Dvojka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Dvojka
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/nvidia_dvojka/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id=":24" tvg-name=":24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",:24
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_rtvs_24/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id=":Šport" tvg-name=":Šport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",:Šport
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Markíza" tvg-name="Markíza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Markíza
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_markiza/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="JOJ" tvg-name="JOJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",JOJ
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_joj/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Markíza +1" tvg-name="Markíza +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Markíza +1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_markiza_plus_jedna/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="JOJ +1" tvg-name="JOJ +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",JOJ +1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_joj_plus_jedna/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Markíza Klasik" tvg-name="Markíza Klasik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Markíza Klasik
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_markiza_klasik/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="DajTo" tvg-name="DajTo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",DajTo
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_dajto/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Doma" tvg-name="Doma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Doma
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/nvidia_doma/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Markíza Krimi" tvg-name="Markíza Krimi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Markíza Krimi
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/nvidia_markiza_krimi/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="JOJ Plus" tvg-name="JOJ Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",JOJ Plus
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/nvidia_joj_plus/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="JOJ Šport" tvg-name="JOJ Šport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",JOJ Šport
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="JOJ Šport 2" tvg-name="JOJ Šport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",JOJ Šport 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="JOJ Krimi" tvg-name="JOJ Krimi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",JOJ Krimi
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/nvidia_wau/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="JOJ Svet" tvg-name="JOJ Svet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",JOJ Svet
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_joj_svet/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="JOJ Cinema" tvg-name="JOJ Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",JOJ Cinema
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/nvidia_joj_cinema/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="JOJ Cinema +1" tvg-name="JOJ Cinema +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",JOJ Cinema +1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_joj_cine_plus_jedna/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="TA3" tvg-name="TA3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TA3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/nvidia_ta3/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="JOJ 24" tvg-name="JOJ 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",JOJ 24
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_joj_24/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Kanal1" tvg-name="Kanal1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Kanal1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_upnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jojko" tvg-name="Jojko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Jojko
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_jojko/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="RiK TV" tvg-name="RiK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",RiK TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/rik_atk/index.m3u8
+
+#EXTINF:-1 tvg-id="LALA TV" tvg-name="LALA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",LALA TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_lala/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Turbo TV" tvg-name="Turbo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Turbo TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Antik Info TV" tvg-name="Antik Info TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Antik Info TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash.antik.sk/live/test_infokanal_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tanečné súťaže" tvg-name="Tanečné súťaže" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Tanečné súťaže
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/tanecnesutaze/index.m3u8
+
+#EXTINF:-1 tvg-id="Senzi" tvg-name="Senzi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Senzi
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_senzi/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Folklorika" tvg-name="Folklorika" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Folklorika
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_folklorika/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="PREMIUM" tvg-name="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",PREMIUM
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Šláger Originál" tvg-name="Šláger Originál" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Šláger Originál
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_slager_original/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Šláger Muzika" tvg-name="Šláger Muzika" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Šláger Muzika
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_slagr_2_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Skvelé TV" tvg-name="Skvelé TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Skvelé TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv NRSR" tvg-name="tv NRSR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",tv NRSR
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_nrsr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV LUX" tvg-name="TV LUX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV LUX
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_lux/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="NOE" tvg-name="NOE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",NOE
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_noe/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="ČT1" tvg-name="ČT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",ČT1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/nvidia_ct1/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="ČT2" tvg-name="ČT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",ČT2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_ct_2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="ČT24" tvg-name="ČT24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",ČT24
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/ct24_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ČT :D - ČT art" tvg-name="ČT :D - ČT art" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",ČT :D - ČT art
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_ct_detem/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Nova International" tvg-name="Nova International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Nova International
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_nova_int/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Prima SK" tvg-name="Prima SK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Prima SK
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_prima/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="CNN Prima News" tvg-name="CNN Prima News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",CNN Prima News
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_cnn_prima_news/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Prima Cool SK" tvg-name="Prima Cool SK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Prima Cool SK
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_prima_cool/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Prima Love SK" tvg-name="Prima Love SK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Prima Love SK
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_prima_love/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Prima Krimi SK" tvg-name="Prima Krimi SK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Prima Krimi SK
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_prima_krimi/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Seznam.cz TV" tvg-name="Seznam.cz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Seznam.cz TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_seznam/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Barrandov" tvg-name="Barrandov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Barrandov
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_barrandov/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Kino Barrandov" tvg-name="Kino Barrandov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Kino Barrandov
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_kino_barrandov/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Barrandov Krimi" tvg-name="Barrandov Krimi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Barrandov Krimi
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A11" tvg-name="A11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",A11
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Piánko" tvg-name="TV Piánko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Piánko
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_pianko/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal1 Sport" tvg-name="Kanal1 Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Kanal1 Sport
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Kanal1 Xtra" tvg-name="Kanal1 Xtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Kanal1 Xtra
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Nova Sport 1" tvg-name="Nova Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Nova Sport 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Nova Sport 2" tvg-name="Nova Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Nova Sport 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Eurosport 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Eurosport 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Sport 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Sport 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Auto Motor und Sport" tvg-name="Auto Motor und Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Auto Motor und Sport
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Golf Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperYacht TV" tvg-name="SuperYacht TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",SuperYacht TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_superyacht/playlist.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="National Geographic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",National Geographic Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",National Geographic Wild
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Discovery
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",ID
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_dsc_id/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",HGTV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_hgtv/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Travel Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_travel_channel/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TLC
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_tlc/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Food Network
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_food_network/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Animal Planet
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_animal_planet/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",History Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/nvidia_history/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",History 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Crime & Investigation" tvg-name="Crime & Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Crime & Investigation
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Love Nature
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_love_nature/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Doktor TV" tvg-name="Doktor TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Doktor TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/tv_doktor/index.m3u8
+
+#EXTINF:-1 tvg-id="Kitchen TV" tvg-name="Kitchen TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Kitchen TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_kitchen_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PARK TV" tvg-name="PARK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",PARK TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_park_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="English Club TV" tvg-name="English Club TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",English Club TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LangLab" tvg-name="LangLab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",LangLab
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/langlabs/index.m3u8
+
+#EXTINF:-1 tvg-id="Lingo Toons" tvg-name="Lingo Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Lingo Toons
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/lingotoons/index.m3u8
+
+#EXTINF:-1 tvg-id="TV Paprika" tvg-name="TV Paprika" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Paprika
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_paprika/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Spektrum" tvg-name="Spektrum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Spektrum
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_spektrum/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Spektrum Home" tvg-name="Spektrum Home" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Spektrum Home
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_spektrum_home/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Fishing&Hunting" tvg-name="Fishing&Hunting" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Fishing&Hunting
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_fishing/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",HBO
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_hbo_hd/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",HBO 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_hbo_2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="HBO 3" tvg-name="HBO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",HBO 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_hbo_3/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Cinemax
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_cinemax/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Cinemax 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",AMC
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Film +" tvg-name="Film +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Film +
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_film_plus/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",AXN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",AXN White
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",AXN Black
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="FilmBox+ One" tvg-name="FilmBox+ One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",FilmBox+ One
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_filmbox/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="FilmBox+ Emotion" tvg-name="FilmBox+ Emotion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",FilmBox+ Emotion
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_fb_extra/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="FilmBox+ hits" tvg-name="FilmBox+ hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",FilmBox+ hits
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_fb_premium/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="FilmBox+ Comedy" tvg-name="FilmBox+ Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",FilmBox+ Comedy
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_fb_family/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="FilmBox+ Love & Crime" tvg-name="FilmBox+ Love & Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",FilmBox+ Love & Crime
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_fb_stars/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="FightBox" tvg-name="FightBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",FightBox
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmBox+ Festival" tvg-name="FilmBox+ Festival" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",FilmBox+ Festival
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",FashionBox
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fast and Funbox" tvg-name="Fast and Funbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Fast and Funbox
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocuBox" tvg-name="DocuBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",DocuBox
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="360 TuneBox" tvg-name="360 TuneBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",360 TuneBox
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Disney Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Disney Junior
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Nickelodeon
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Nicktoons
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Nick Jr
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_nick_jr/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",JimJam
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_jimjam/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Minimax" tvg-name="Minimax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Minimax
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_minimax/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Duck TV" tvg-name="Duck TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Duck TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/duck_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Duck TV Plus" tvg-name="Duck TV Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Duck TV Plus
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mestská Tv Košice" tvg-name="Mestská Tv Košice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Mestská Tv Košice
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_mtv_kosice/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RVTV" tvg-name="RVTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",RVTV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_roznava/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Miestna TV Trebišov" tvg-name="Miestna TV Trebišov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Miestna TV Trebišov
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_trebisov/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HN TV" tvg-name="HN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",HN TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_hntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",BTV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_btv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moldava TV" tvg-name="Moldava TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Moldava TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_moldava/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV 9" tvg-name="TV 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV 9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV7" tvg-name="TV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_tv7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ČSRTV" tvg-name="ČSRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",ČSRTV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_csrtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV SEN" tvg-name="TV SEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV SEN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_tv_sen_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Ružinov" tvg-name="TV Ružinov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Ružinov
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_ruzinov/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Kežmarok" tvg-name="TV Kežmarok" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Kežmarok
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_severka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Romana" tvg-name="TV Romana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Romana
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_romana/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Bratislava" tvg-name="TV Bratislava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Bratislava
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_batv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Life TV" tvg-name="Life TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Life TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_life/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV RAJ" tvg-name="TV RAJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV RAJ
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_raj/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Vega" tvg-name="Tv Vega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Tv Vega
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_vega/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Panoráma" tvg-name="TV Panoráma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Panoráma
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_panorama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV Žiar" tvg-name="ATV Žiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",ATV Žiar
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_atv_ziar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Zemplín" tvg-name="TV Zemplín" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Zemplín
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_zemplin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Poprad" tvg-name="TV Poprad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Poprad
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_poprad/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Reduta" tvg-name="TV Reduta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Reduta
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/tv_reduta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mestská Televízia Partizánske" tvg-name="Mestská Televízia Partizánske" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Mestská Televízia Partizánske
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_partizanske/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Považie" tvg-name="TV Považie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Považie
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_povazie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mestská Televízia Trnava" tvg-name="Mestská Televízia Trnava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Mestská Televízia Trnava
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_trnava/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CETV" tvg-name="CETV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",CETV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_central/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Mistral" tvg-name="TV Mistral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Mistral
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_mistral_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Nitrička" tvg-name="TV Nitrička" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Nitrička
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_nitricka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Nové Zámky" tvg-name="TV Nové Zámky" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV Nové Zámky
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_nove_zamky/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Televízia Slovensko" tvg-name="Televízia Slovensko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Televízia Slovensko
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_zapadoslovenska/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Godzone TV" tvg-name="Godzone TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Godzone TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_vita/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_osem/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Régió TV" tvg-name="Régió TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Régió TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_regio_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV LocAll" tvg-name="TV LocAll" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TV LocAll
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_locall/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Polar TV" tvg-name="Polar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Polar TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVP World" tvg-name="TVP World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TVP World
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_tvp_world/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVP Info" tvg-name="TVP Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TVP Info
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TVP Polonia
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_tvp_polonia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Svoboda" tvg-name="Svoboda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Svoboda
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/svoboda/index.m3u8
+
+#EXTINF:-1 tvg-id="UA TV" tvg-name="UA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",UA TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_uatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Espreso TV" tvg-name="Espreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Espreso TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_espresso/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Current Time" tvg-name="Current Time" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Current Time
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Armenia 1 TV" tvg-name="Armenia 1 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Armenia 1 TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_armenia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Euronews
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_euronews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",NHK World Japan
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_nhk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Arirang TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",TRT World
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Al Jazeera English
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Al Jazeera
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Sky News
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_skynews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France 24 English" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",France 24 English
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_france24_eng/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",France 24
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_france24_france/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rai Uno" tvg-name="Rai Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Rai Uno
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rai Tre" tvg-name="Rai Tre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Rai Tre
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",CGTN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTN Documentary" tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",CGTN Documentary
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Óčko" tvg-name="Óčko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Óčko
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_ocko/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Óčko Black" tvg-name="Óčko Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Óčko Black
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/test_ocko_black/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Óčko Expres" tvg-name="Óčko Expres" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Óčko Expres
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_ocko_expres/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Óčko Star" tvg-name="Óčko Star" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Óčko Star
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_ocko_star/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Retro Music Television" tvg-name="Retro Music Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Retro Music Television
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Rebel" tvg-name="Rebel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Rebel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_rebel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Relax" tvg-name="Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Relax
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_relax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STINGRAY iConcerts" tvg-name="STINGRAY iConcerts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",STINGRAY iConcerts
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HaHa TV" tvg-name="HaHa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",HaHa TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Naše Košice" tvg-name="Naše Košice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Naše Košice
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dash4.antik.sk/live/nase_kosice/index.m3u8
+
+#EXTINF:-1 tvg-id="Brazzers Europe" tvg-name="Brazzers Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Brazzers Europe
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_brazzers_europe/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Dusk" tvg-name="Dusk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Dusk
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_dusk/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Passion XXX" tvg-name="Passion XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Passion XXX
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_passion_xxx/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Leo Gold" tvg-name="Leo Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Leo Gold
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_leo_gold/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Extasy" tvg-name="Extasy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Extasy
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Dorcel XXX" tvg-name="Dorcel XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Dorcel XXX
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_dorcel_xxx/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Bang U" tvg-name="Bang U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Bang U
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_bang_u/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="True Amateurs" tvg-name="True Amateurs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",True Amateurs
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Desire" tvg-name="Desire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Desire
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_desire/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Babes" tvg-name="Babes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Babes
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Eroxxx" tvg-name="Eroxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Eroxxx
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Erox" tvg-name="Erox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Erox
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Dorcel TV" tvg-name="Dorcel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Dorcel TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Pure Babes" tvg-name="Pure Babes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Pure Babes
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Leo TV" tvg-name="Leo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Leo TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_leo_tv/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Reality Kings" tvg-name="Reality Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Antik_Telecom_Logo.png" group-title="an",Reality Kings
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_reality_tv/playlist_cbcs.mpd

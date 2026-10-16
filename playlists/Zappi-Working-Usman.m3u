@@ -1,0 +1,368 @@
+#EXTM3U
+# updated: 2026-10-16T10:56:07Z
+#EXTINF:-1 tvg-id="A Punt" tvg-name="A Punt" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",A Punt
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d5d2d73938d43668573a714215e6ac8:e60925a48ff320265d0c5973c30cf203
+https://cache3.zapitv.com/live/eds_c2/a_punt_hd/dash_live_ez/a_punt_hd.mpd
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC Break" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",AMC Break
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf849c4337464c4682ec95f76b3af9fc:e2d1e53b9c63394e9db0090e2782a87f
+https://cache2.zapitv.com/live/eds_c2/blaze/dash_live_ez/blaze.mpd
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC Crime" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",AMC Crime
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f71d55c4b0e4c57871180bd06ce832a:55faa0cb0117cb7060972dfd4f87d537
+https://cache2.zapitv.com/live/eds_c2/crimen/dash_live_ez/crimen.mpd
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Antena 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b0df13e55ea4ea196c2da379ef34be5:336eacb3a4ec3c35dca11c848b1630ea
+https://cache4.zapitv.com/live/eds_c2/test/dash_live_ez/test.mpd
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",AXN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4f79d996c3449fea0186c921d601115:99c794f08ce50ebe75eb7e57f397f8e3
+https://cache3.zapitv.com/live/eds_c2/axn/dash_live_ez/axn.mpd
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Baby TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7556319f3ce54d51b955fa0887ee7388:d36a3893e796b5934d17fd866f133a82
+https://cache2.zapitv.com/live/eds_c2/BABYTV/dash_live_ez/BABYTV.mpd
+#EXTINF:-1 tvg-id="Bemad" tvg-name="Bemad" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Bemad
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=101ae4e5db4f48b1ab2e3e7e51f2b879:fc243b64966d05458f20195bd1f892db
+https://cache4.zapitv.com/live/eds_c2/bemad_hd/dash_live_ez/bemad_hd.mpd
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="Calle 13" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Calle 13
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29e88896154e4a7092acfcfdb4a0b094:8d306e5637e8bc48c105a3ad3f7e313d
+https://cache3.zapitv.com/live/eds_c2/calle_13/dash_live_ez/calle_13.mpd
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Canal Cocina
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b895f8398b3b44518d8621a398955f92:52de81ee55dffe8d0dd1a25d9ebf4460
+https://cache2.zapitv.com/live/eds_c2/cocina_hd/dash_live_ez/cocina_hd.mpd
+#EXTINF:-1 tvg-id="Canal Cofrade" tvg-name="Canal Cofrade" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Canal Cofrade
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7d11462471548fab8d274ed1a7bb5bc:eb8cfdb0ed33dd364d5698c96a3f36ab
+https://cache4.zapitv.com/live/eds_c2/cofrade_ptv/dash_live_ez/cofrade_ptv.mpd
+#EXTINF:-1 tvg-id="Canal Hollywood" tvg-name="Canal Hollywood" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Canal Hollywood
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4774c7986534082915872011ee53254:02df9bdd2b14598cdc7a356e459948d9
+https://cache3.zapitv.com/live/eds_c2/hollywood_hd/dash_live_ez/hollywood_hd.mpd
+#EXTINF:-1 tvg-id="Canal Sur" tvg-name="Canal Sur" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Canal Sur
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da060a03f3f9417384db06f8adbc5e31:36f3acdf653eabf6be3d84ba3430ce51
+https://cache4.zapitv.com/live/eds_c2/canal_sur_hd/dash_live_ez/canal_sur_hd.mpd
+#EXTINF:-1 tvg-id="Clan TV" tvg-name="Clan TV" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Clan TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5cd4447fd53b49f7a40b33a83bcbf58e:e6d02a31a2793fcea35065a5b908a60c
+https://cache2.zapitv.com/live/eds_c2/clan_tv_hd/dash_live_ez/clan_tv_hd.mpd
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Comedy Central
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c494321b1cc4130a9434e045dd6ebb6:cd069d281de9589fb46915a6e77513f9
+https://cache4.zapitv.com/live/eds_c2/comedy_central/dash_live_ez/comedy_central.mpd
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Cuatro
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d3e3f1b8198490ba7bfff0e123a619c:6c55ac488ea2ea16826d02a2838b8ba6
+https://cache2.zapitv.com/live/eds_c2/cuatro/dash_live_ez/cuatro.mpd
+#EXTINF:-1 tvg-id="Dark" tvg-name="Dark" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Dark
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de5b378612314027afe31860c97e413e:7a94d3e1261a3f0556ce6726c5679a38
+https://cache3.zapitv.com/live/eds_c2/DARK_HD/dash_live_ez/DARK_HD.mpd
+#EXTINF:-1 tvg-id="DBIKE" tvg-name="DBIKE" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",DBIKE
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00fc29c4bcd3455592b7fc2494ac59c6:dfda9f171bdaa93b17b8a240350f895c
+https://cache3.zapitv.com/live/eds_c2/DBIKE/dash_live_ez/DBIKE.mpd
+#EXTINF:-1 tvg-id="De Película" tvg-name="De Película" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",De Película
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2dae6ce91f84bafb52f7cf6594cb432:86956dd631e0c4c952d8463ecbbf9a9a
+https://cache4.zapitv.com/live/eds_c2/DEPELICULAS/dash_live_ez/DEPELICULAS.mpd
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Discovery Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a56c65424b4456e83a4042114b253b2:d95b534cede8798d0e521e19f0850681
+https://cache2.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_ez/discovery_channel_hd.mpd
+#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Divinity
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff72f557517743659f9bc369078030d0:2b69480bd2fba3fbbcb61cc2f58d5ee6
+https://cache3.zapitv.com/live/eds_c2/divinity/dash_live_ez/divinity.mpd
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",DMAX
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2e2e464abaf44259abca6f7055fed52:2edcd9e9c03f400ca0058598d3a75a5b
+https://cache4.zapitv.com/live/eds_c2/dmax/dash_live_ez/dmax.mpd
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="El Toro TV" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",El Toro TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc634337d0048939d4d3fbed8777540:5e49d4f13f57b69425784c801d442d5f
+https://cache2.zapitv.com/live/eds_c2/intereconomia/dash_live_ez/intereconomia.mpd
+#EXTINF:-1 tvg-id="Energy" tvg-name="Energy" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Energy
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ec4efb8a104ab1988e7ac01641dd99:b85140691173bc5bd4221aae4e45ed79
+https://cache4.zapitv.com/live/eds_c2/energy/dash_live_ez/energy.mpd
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",EWTN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f3805f9486842bc9f4637ea8160412a:3b9e695ce8cc7d5972eac12006e4ec81
+https://cache3.zapitv.com/live/eds_c2/ewtn/dash_live_ez/ewtn.mpd
+#EXTINF:-1 tvg-id="Extremadura" tvg-name="Extremadura" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Extremadura
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6283f831f544a55b9682c940559b685:d846456a6d61d6cfec48f22929a54eb0
+https://cache2.zapitv.com/live/eds_c2/extremadura_tv/dash_live_ez/extremadura_tv.mpd
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",FDF
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c751ca45643b438ead85d9fabb3482e1:52097c7e31b2d69034720eab836c5668
+https://cache3.zapitv.com/live/eds_c2/fdf/dash_live_ez/fdf.mpd
+#EXTINF:-1 tvg-id="Galicia" tvg-name="Galicia" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Galicia
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be7f1e60a24b43f3bef98ee5572686be:3375cbdcc38ae5f75322216a36792007
+https://cache3.zapitv.com/live/eds_c2/GALICIA/dash_live_ez/GALICIA.mpd
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Historia
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1c3ba240a4f408182db1c034129f970:3a4a0aaf2688401165fb25e4f7b4ea13
+https://cache3.zapitv.com/live/eds_c2/historia_hd/dash_live_ez/historia_hd.mpd
+#EXTINF:-1 tvg-id="Iberalia Caza" tvg-name="Iberalia Caza" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Iberalia Caza
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5074c30651ee4ffc94652310ce05ebf5:b20b4544d29dc66075788edbf99f494e
+https://cache3.zapitv.com/live/eds_c2/iberalia_caza/dash_live_ez/iberalia_caza.mpd
+#EXTINF:-1 tvg-id="Iberalia Pezca" tvg-name="Iberalia Pezca" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Iberalia Pezca
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0e3f849a41f43a999d98c22e621ff69:cea756a7313bbac55fe0ed4114320f03
+https://cache2.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_ez/iberalia_pesca.mpd
+#EXTINF:-1 tvg-id="LaLiga Hypermotion 1" tvg-name="LaLiga Hypermotion 1" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",LaLiga Hypermotion 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+#EXTINF:-1 tvg-id="LaLiga Hypermotion 2" tvg-name="LaLiga Hypermotion 2" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",LaLiga Hypermotion 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f
+https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
+#EXTINF:-1 tvg-id="LaLiga Hypermotion 3" tvg-name="LaLiga Hypermotion 3" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",LaLiga Hypermotion 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=504440a5e83f419c816d8c767c7f703b:59aff40e34ae89f4e3af4758f24a0d8c
+https://cache4.zapitv.com/live/eds_c2/HYPERMOTION3/dash_live_ez/HYPERMOTION3.mpd
+#EXTINF:-1 tvg-id="La 1" tvg-name="La 1" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",La 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47cc7264dc314b589e687be2e4d3be59:f61d992a078161b377909c8bf35c5910
+https://cache4.zapitv.com/live/eds_c2/la1_4k/dash_live_ez/la1_4k.mpd
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",La Sexta
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b18078e2d24a43c2bef2acf0ecf92962:2fe3632c7074c7bbe49611ccc750a571
+https://cache2.zapitv.com/live/eds_c2/la_sexta/dash_live_ez/la_sexta.mpd
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Las Estrellas
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7dd08aa2c3540a295654d1b998bf75f:5748ac186f0f6e25df0d216967e30703
+https://cache2.zapitv.com/live/eds_c2/CANAL_DE_LAS_ESTRELLAS/dash_live_ez/CANAL_DE_LAS_ESTRELLAS.mpd
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Mega
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0d6ecbc39474c73a855faf57b021d5b:46184ee5a6d38e265f5f439f5cb386ed
+https://cache3.zapitv.com/live/eds_c2/mega/dash_live_ez/mega.mpd
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",MTV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad26ea37ce8e4cd8899c85bccc295021:7893f2b2fcfd15e4f1a896fd1eeaa676
+https://cache4.zapitv.com/live/eds_c2/mtv_espana/dash_live_ez/mtv_espana.mpd
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Nat Geo Wild
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76f4714902e048e481eb4224d1cf0e66:ea1d9b76cf4425d20513f8d660ee69e4
+https://cache2.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild_hd.mpd
+#EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Nat Geo
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=489955dbc55c44ad93b69a07cb031e84:870f3b7c49e8660daf21fe7783d23074
+https://cache3.zapitv.com/live/eds_c2/nat_geographic_hd/dash_live_ez/nat_geographic_hd.mpd
+#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",NEOX
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bf41667beb443aba1438863de5c10e3:90c3b72a3567dae15b1a96186a9061c3
+https://cache3.zapitv.com/live/eds_c2/neox/dash_live_ez/neox.mpd
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Nickelodeon
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d73d5d00d43e4eea94bcd58aacb2d94c:204bdbac57e666aa90491c535d8b7a20
+https://cache2.zapitv.com/live/eds_c2/nickelodeon/dash_live_ez/nickelodeon.mpd
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Nova
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d14804bdf314c65a03609e7c729978b:263766334096bb7afc0f3c5726e3d4b2
+https://cache4.zapitv.com/live/eds_c2/nova/dash_live_ez/nova.mpd
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Odisea
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbe3d7d894d4c3dbef472d6a3d40bb3:21432a63b987d38909f3415b5696c0b1
+https://cache3.zapitv.com/live/eds_c2/odisea_hd/dash_live_ez/odisea_hd.mpd
+#EXTINF:-1 tvg-id="PTB Malaga" tvg-name="PTB Malaga" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",PTB Malaga
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f275f34b9d734c4a87899cbcdf10fdaf:69c2a712555f6db5879817da1aea7a78
+https://cache2.zapitv.com/live/eds_c2/PTV_MALAGA/dash_live_ez/PTV_MALAGA.mpd
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Real Madrid TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02d668629134c34a699bd2ee7c5c532:cc7186c30eeafffe02c26ffab0bf61e2
+https://cache3.zapitv.com/live/eds_c2/real_madrid_tv_hd/dash_live_ez/real_madrid_tv_hd.mpd
+#EXTINF:-1 tvg-id="Redbull TV" tvg-name="Redbull TV" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Redbull TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac8eb98f4c7f48c5b3fc9cf1041fc538:f134b4044fec0674654112dc7eeaff64
+https://cache2.zapitv.com/live/eds_c2/redbull/dash_live_ez/redbull.mpd
+#EXTINF:-1 tvg-id="REK TV" tvg-name="REK TV" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",REK TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebd5f8df9189482f906e12b4dbfae5b0:5f7fe18638a3d29c03092a626bde280d
+https://cache4.zapitv.com/live/eds_c2/REKTV/dash_live_ez/REKTV.mpd
+#EXTINF:-1 tvg-id="Squirrel" tvg-name="Squirrel" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Squirrel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b06ca47b6f3447798c815df781a3ff1:7acc299ec1ac502cc6b2467e11ac1d2a
+https://cache2.zapitv.com/live/eds_c2/squirrel/dash_live_ez/squirrel.mpd
+#EXTINF:-1 tvg-id="Squirrel Dos" tvg-name="Squirrel Dos" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Squirrel Dos
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52ee2c20542a45b5a51f68310a2f836c:ddf4b8d753396b21fe5dd4a362b33871
+https://cache4.zapitv.com/live/eds_c2/paramount_channel/dash_live_ez/paramount_channel.mpd
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Star Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa7ab01b625c45ed87efb861145c06d1:0ef9017b4d625cce20877ee588a408b8
+https://cache3.zapitv.com/live/eds_c2/STAR_CHANNEL/dash_live_ez/STAR_CHANNEL.mpd
+#EXTINF:-1 tvg-id="Surf Channel" tvg-name="Surf Channel" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Surf Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c71475de68524c9291453082538f92ee:6e16994e735c11a47e4f6045d39b9caf
+https://cache2.zapitv.com/live/eds_c2/surf_channel/dash_live_ez/surf_channel.mpd
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",SYFY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a753e0a4a5084b61ba93ae058c38b1ba:16257ff813b1dbeaf5573871f540ad70
+https://cache4.zapitv.com/live/eds_c2/syfy/dash_live_ez/syfy.mpd
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Telecinco
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25d236b2fd8a47a3b1e6eeca2e288a35:4d18515ab83ebde113fe16eb885b9a85
+https://cache2.zapitv.com/live/eds_c2/telecinco/dash_live_ez/telecinco.mpd
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Teledeporte
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44e5bf3f27004e2ba35263ad9277f2c1:96578d7c374ae808ff811c4f236d0ca9
+https://cache3.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_ez/teledeporte_hd.mpd
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Telemadrid
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3aa8b884c7954857876b4e6553866e42:c386a65b3b7ef3cb17c49e4dd6aef066
+https://cache2.zapitv.com/live/eds_c2/tele_madrid_hd/dash_live_ez/tele_madrid_hd.mpd
+#EXTINF:-1 tvg-id="TEN" tvg-name="TEN" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",TEN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82b1d8886e5b4656a77225fc76e0dad4:50d98d221d646a477510fd7a5c8fbb7a
+https://cache4.zapitv.com/live/eds_c2/ten/dash_live_ez/ten.mpd
+#EXTINF:-1 tvg-id="Trece TV" tvg-name="Trece TV" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",Trece TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72ca88134c2842b78aa171068b1c61f4:4afbe5207cde65872d005b1daedcc9b4
+https://cache4.zapitv.com/live/eds_c2/TRECETV/dash_live_ez/TRECETV.mpd
+#EXTINF:-1 tvg-id="TV Region Murcia" tvg-name="TV Region Murcia" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",TV Region Murcia
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61306ce256ae4a6189949b1760748b00:6dbfd6dcc6c404b4fa9b52b77f7c63ee
+https://cache3.zapitv.com/live/eds_c2/7rm_hd/dash_live_ez/7rm_hd.mpd
+#EXTINF:-1 tvg-id="VEO 7" tvg-name="VEO 7" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",VEO 7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03deba5b19284df2b6e552c5a0824d8f:dffe92d78de04843a92b14116801da1d
+https://cache2.zapitv.com/live/eds_c2/veo_7/dash_live_ez/veo_7.mpd
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",XTRM
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cc0d8d9ee1b41e8b1cb1fa5fc7f904c:8155299e616ffecbda6cfcf462f845de
+https://cache4.zapitv.com/live/eds_c2/xtrm_hd/dash_live_ez/xtrm_hd.mpd
