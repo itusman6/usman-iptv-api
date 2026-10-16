@@ -10,7 +10,7 @@ on:
     paths:
       - 'scripts/**'
       - 'sources/**'
-      - '.github/workflows/generate-playlists.yml'
+      - '.github/workflows/main.yml'
   # Allow manual re-trigger via API even when nothing changed
   repository_dispatch:
     types: [regenerate-playlists]
