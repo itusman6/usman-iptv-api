@@ -23,73 +23,136 @@ concurrency:
 
 jobs:
   build:
+    name: Generate and publish M3U playlists
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
     steps:
-      - name: Print trigger diagnostics
+      # 1. Diagnostic information
+      - name: Show run information
         run: |
           echo "Event: ${{ github.event_name }}"
           echo "Branch: ${{ github.ref_name }}"
-          echo "UTC time: $(date -u)"
           echo "Repository: ${{ github.repository }}"
+          echo "UTC time: $(date -u '+%Y-%m-%d %H:%M:%S')"
 
-      - name: Checkout main
+      # 2. Checkout latest main
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0
+          persist-credentials: true
 
+      # 3. Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
+      # 4. Install dependencies
       - name: Install dependencies
         shell: bash
         run: |
           set -euo pipefail
-          python -m pip install --upgrade pip
-          python -m pip install -r requirements.txt
 
-      - name: Generate converge playlist
-        shell: bash
-        run: |
-          set -euo pipefail
+          if [ ! -f requirements.txt ]; then
+            echo "::error::requirements.txt not found"
+            exit 1
+          fi
 
           for attempt in 1 2 3; do
-            rm -f converge.m3u
-
-            if python scripts/make_playlist.py &&
-               [ -s converge.m3u ]; then
+            if python -m pip install --upgrade pip &&
+               python -m pip install -r requirements.txt; then
               break
             fi
 
             if [ "$attempt" -eq 3 ]; then
-              echo "::error::Playlist generation failed"
+              echo "::error::Dependency installation failed"
               exit 1
             fi
 
+            echo "Installation attempt $attempt failed; retrying"
             sleep 10
           done
 
-          count=$(grep -c '^#EXTINF' converge.m3u || true)
-          echo "Channels: $count"
+      # 5. Check required files and secrets
+      - name: Validate configuration
+        shell: bash
+        env:
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          STREAM_PASSPHRASE: ${{ secrets.STREAM_PASSPHRASE }}
+        run: |
+          set -euo pipefail
 
-          if [ "$count" -lt 10 ]; then
-            echo "::error::Fewer than 10 channels generated"
+          test -f scripts/make_playlist.py || {
+            echo "::error::scripts/make_playlist.py is missing"
+            exit 1
+          }
+
+          if [ -z "$SUPABASE_ANON_KEY" ]; then
+            echo "::error::Missing SUPABASE_ANON_KEY repository secret"
             exit 1
           fi
 
-          mkdir -p playlists
-          mv converge.m3u playlists/converge.m3u
+          if [ -z "$STREAM_PASSPHRASE" ]; then
+            echo "::error::Missing STREAM_PASSPHRASE repository secret"
+            exit 1
+          fi
 
+          mkdir -p playlists sources
+          echo "Configuration checks passed"
+
+      # 6. Generate converge.m3u
+      - name: Generate converge playlist
+        shell: bash
+        env:
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          STREAM_PASSPHRASE: ${{ secrets.STREAM_PASSPHRASE }}
+        run: |
+          set -euo pipefail
+
+          success=false
+
+          for attempt in 1 2 3; do
+            rm -f converge.m3u
+
+            echo "Generation attempt $attempt of 3"
+
+            if python -u scripts/make_playlist.py &&
+               [ -s converge.m3u ]; then
+              success=true
+              break
+            fi
+
+            if [ "$attempt" -lt 3 ]; then
+              echo "Generation failed; retrying in 10 seconds"
+              sleep 10
+            fi
+          done
+
+          if [ "$success" != true ]; then
+            echo "::error::Playlist generation failed after 3 attempts"
+            exit 1
+          fi
+
+          channels=$(grep -c '^#EXTINF' converge.m3u || true)
+
+          echo "Generated channels: $channels"
+
+          if [ "$channels" -lt 10 ]; then
+            echo "::error::Expected at least 10 channels"
+            exit 1
+          fi
+
+          mv -f converge.m3u playlists/converge.m3u
+
+      # 7. Copy sources/*.m3u
       - name: Copy source playlists
         shell: bash
         run: |
           set -euo pipefail
           shopt -s nullglob
-          mkdir -p playlists sources
 
           count=0
 
@@ -115,13 +178,13 @@ jobs:
           output = ["#EXTM3U", f"# updated: {now}"]
 
           for line in raw:
-              s = line.strip()
+              stripped = line.strip()
 
-              if s.startswith("#EXTM3U"):
+              if stripped.startswith("#EXTM3U"):
                   continue
-              if s.startswith("# generated:"):
+              if stripped.startswith("# generated:"):
                   continue
-              if s.startswith("# updated:"):
+              if stripped.startswith("# updated:"):
                   continue
 
               output.append(line.rstrip())
@@ -129,6 +192,7 @@ jobs:
           while output and not output[-1]:
               output.pop()
 
+          dst.parent.mkdir(parents=True, exist_ok=True)
           dst.write_text(
               "\n".join(output) + "\n",
               encoding="utf-8"
@@ -137,12 +201,20 @@ jobs:
           print(f"Created {dst}")
           PY
 
+            channels=$(grep -c '^#EXTINF' "playlists/$name" || true)
+            echo "$name: $channels channels"
+
             count=$((count + 1))
           done
 
           echo "Source playlists processed: $count"
 
-      - name: Rebuild index playlist
+          if [ "$count" -eq 0 ]; then
+            echo "::notice::No source M3U files found in sources/"
+          fi
+
+      # 8. Rebuild index.m3u
+      - name: Build playlist index
         shell: bash
         run: |
           set -euo pipefail
@@ -152,6 +224,7 @@ jobs:
           from datetime import datetime, timezone
 
           directory = Path("playlists")
+
           files = sorted(
               p for p in directory.glob("*.m3u")
               if p.name != "index.m3u"
@@ -181,17 +254,22 @@ jobs:
                   f'tvg-logo="https://i.imgur.com/c7CDrvS.png" '
                   f'group-title="Playlists",{name} [{count} ch]'
               )
+
               lines.append(f"./{f.name}")
 
-          (directory / "index.m3u").write_text(
+          index = directory / "index.m3u"
+          index.write_text(
               "\n".join(lines) + "\n",
               encoding="utf-8"
           )
 
-          print(f"Index generated with {len(files)} playlists")
+          print(f"Index entries: {len(files)}")
+          print(f"Index file: {index}")
+          print(f"Generated: {now}")
           PY
 
-      - name: Validate playlists
+      # 9. Validate outputs
+      - name: Validate generated playlists
         shell: bash
         run: |
           set -euo pipefail
@@ -199,19 +277,29 @@ jobs:
           test -s playlists/converge.m3u
           test -s playlists/index.m3u
 
-          echo "=== Files ==="
+          channels=$(grep -c '^#EXTINF' playlists/converge.m3u || true)
+
+          if [ "$channels" -lt 10 ]; then
+            echo "::error::converge.m3u failed validation"
+            exit 1
+          fi
+
+          echo "=== Generated files ==="
           ls -lh playlists/
 
-          echo "=== Channel counts ==="
+          echo
+          echo "=== Playlist channel counts ==="
+
           for f in playlists/*.m3u; do
+            [ -f "$f" ] || continue
             count=$(grep -c '^#EXTINF' "$f" || true)
-            echo "$(basename "$f"): $count channels"
+            printf '%-35s %s channels\n' \
+              "$(basename "$f")" "$count"
           done
 
-      - name: Commit and push
+      # 10. Commit and push
+      - name: Commit and push playlists
         shell: bash
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
 
@@ -222,33 +310,33 @@ jobs:
           git add -A playlists/
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes to commit"
             exit 0
           fi
 
           git commit -m \
-            "chore(playlists): update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            "chore(playlists): regenerate $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
 
           for attempt in 1 2 3; do
             git fetch origin main
 
             if ! git rebase origin/main; then
               git rebase --abort || true
-              echo "::error::Rebase failed; check for conflicting changes"
+              echo "::error::Rebase failed"
               exit 1
             fi
 
             if git push origin HEAD:main; then
-              echo "Playlists pushed successfully."
+              echo "Playlists successfully pushed to main"
               exit 0
             fi
 
-            echo "Push attempt $attempt failed."
+            echo "Push attempt $attempt failed"
 
             if [ "$attempt" -lt 3 ]; then
               sleep 10
             fi
           done
 
-          echo "::error::All push attempts failed."
+          echo "::error::Failed to push after 3 attempts"
           exit 1
