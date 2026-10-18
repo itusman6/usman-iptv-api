@@ -1,5 +1,5 @@
 #EXTM3U
-# updated: 2026-10-18T17:32:24Z
+# updated: 2026-10-18T18:01:07Z
 #EXTINF:-1 tvg-id="ANC PH" tvg-name="ANC PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/IWant_logo_2025.svg/500px-IWant_logo_2025.svg.png" group-title="ic",ANC PH
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
