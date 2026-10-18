@@ -1,5 +1,5 @@
 #EXTM3U
-# updated: 2026-10-18T19:31:03Z
+# updated: 2026-10-18T19:39:41Z
 #EXTINF:-1 tvg-id="Men's Neco" tvg-name="Men's Neco" tvg-logo="https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2645554.jpg" group-title="jp",Men's Neco
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
