@@ -1,5 +1,5 @@
 #EXTM3U
-# updated: 2026-10-25T13:01:18Z
+# updated: 2026-10-25T13:31:09Z
 #EXTINF:-1 tvg-id="A Punt" tvg-name="A Punt" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",A Punt
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
