@@ -1,5 +1,5 @@
 #EXTM3U
-# generated: 2026-10-26T14:31:03Z
+# generated: 2026-10-26T15:01:25Z
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="LISA - SaWaDiKa (Official Music Video)" tvg-name="LISA - SaWaDiKa (Official Music Video)" tvg-logo="https://video.gumlet.io/67d8c3ffcbc68914a35744f4/6ad166082c6388d890eee3d8/thumbnail-1-0.png?v=1792108270001" group-title="jp",LISA - SaWaDiKa (Official Music Video)
@@ -3922,12 +3922,6 @@ https://ac-009.live.p7s1video.net/90ef81a3/t_009/defa-hd/cenc-default.mpd
 https://ac-009.live.p7s1video.net/789ab598/t_009/top-filme-hd/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97560df447ab88922d87f3e6a63559a7:5d6ef2dbca6303829ab70fb0a9d66ef6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="ZEE ONE" tvg-name="ZEE ONE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",ZEE ONE
-https://ac-009.live.p7s1video.net/18b7a803/t_009/zee-one-hd/cenc-default.mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d11db0ba77efcc4c5a3a700e39db698d:3f436ad7f8d15bed8cc3fd6911b3c16e
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="TOP SCI-FI" tvg-name="TOP SCI-FI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",TOP SCI-FI
@@ -3956,12 +3950,6 @@ https://ac-009.live.p7s1video.net/d768e30a/t_009/craction-hd/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="CNN INTERNATIONAL" tvg-name="CNN INTERNATIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",CNN INTERNATIONAL
 https://ac-009.live.p7s1video.net/c0a1ce6a/t_003/cnn-international-hd/cenc-default.mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81f153fbb3479cb1fd3ff8c2cd42d4cb:de60587d203b79ec0d65b316616e6a87
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",BLOOMBERG
-https://ac-009.live.p7s1video.net/ece161ad/t_009/bloomberg/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff93526dc1d450adaf9fb9a40409ad2e:fa5bf52f62f832e81269cb8f8316d9a7
@@ -4066,12 +4054,6 @@ https://ac-009.live.p7s1video.net/90969437/t_003/justfishing-hd/cenc-default.mpd
 https://ac-009.live.p7s1video.net/cf6b1ec4/t_009/landlust-tv-hd/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f82976e3f7535e8b4efd0e855550390:c91fbd119add443b75fcfe20a7f98fb3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SAT1 RLP HESSEN" tvg-name="SAT1 RLP HESSEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",SAT1 RLP HESSEN
-https://fl-009.live.p7s1video.net/926d2c03/t_009/sat1-rlp-hessen-de-sd/cenc-default.mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63840c3a4052d579340529fc533b4d5c:eae4d4cd0e6b227781cce20faeb8547a
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="PROSIEBEN" tvg-name="PROSIEBEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",PROSIEBEN
@@ -4108,22 +4090,10 @@ https://fl-009.live.p7s1video.net/b5b26355/t_001/kabeleinsdoku-de/cenc-default.m
 https://fl-009.live.p7s1video.net/061b2e86/t_001/sixx-de/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SPORT1" tvg-name="SPORT1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",SPORT1
-https://fl-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4be97d7f735af6a3451aca364b82a0ca:81fe64b5b28f270f0732a08e475ab003
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="KABELEINS" tvg-name="KABELEINS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",KABELEINS
 https://fl-009.live.p7s1video.net/0d8f8d9c/t_001/kabeleins-de/cenc-default.mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d9edeea4428588281fb4ff6c1f3faaf:2471a00b0ad928de405c5c960fa7e267
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="TOP TRUE CRIME" tvg-name="TOP TRUE CRIME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joyn_2025.png" group-title="zj",TOP TRUE CRIME
-https://fl-009.live.p7s1video.net/3b2be8a6/t_009/top-true-crime-hd/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca457c58c66ada4570d491d8197f9a3d:7615509a1667c167a51c1a0569081e48
@@ -4586,12 +4556,6 @@ https://ciades.providers.com.ar/TELENOVELAS/index.mpd?token=eYDBYv2P6E0MKxqEilWG
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",TNT Novelas
 https://ciades.providers.com.ar/TNTNOVELAS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fae81fc93e8d4f098cfce1135cb8a872:1857408fb167846cb696d3c94eed8e54
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="Cuidad Magazine" tvg-name="Cuidad Magazine" tvg-logo="https://www.providers.com.ar/wp-content/uploads/2022/02/cropped-logoProv.png" group-title="pa",Cuidad Magazine
-https://ciades.providers.com.ar/MAGAZINE/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31e6ec1b810043c9a2acd689db6171b5:562939d0e29d372c150449ca903b0bdc
