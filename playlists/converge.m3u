@@ -1,5 +1,5 @@
 #EXTM3U
-# generated: 2026-10-27T18:16:09Z
+# generated: 2026-10-27T18:24:31Z
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="LISA - SaWaDiKa (Official Music Video)" tvg-name="LISA - SaWaDiKa (Official Music Video)" tvg-logo="https://video.gumlet.io/67d8c3ffcbc68914a35744f4/6ad166082c6388d890eee3d8/thumbnail-1-0.png?v=1792108270001" group-title="jp",LISA - SaWaDiKa (Official Music Video)
@@ -3188,12 +3188,6 @@ https://cache1.zapitv.com/live/eds_c2/24h_tve/dash_live_ez/24h_tve.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="A Punt" tvg-name="A Punt" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",A Punt
 https://cache3.zapitv.com/live/eds_c2/a_punt_hd/dash_live_ez/a_punt_hd.mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76322e6a6b954d549c289429922c867a:5965dab8679d9e6531166fa2883c3fd6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="A3series" tvg-name="A3series" tvg-logo="https://gilena.tv/wp-content/uploads/2024/04/logo-zapi-m.png" group-title="zj",A3series
-https://cache1.zapitv.com/live/eds_c2/atreseries_hd/dash_live_ez/atreseries_hd.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36&Referer=https://gproject.netlify.app/&Origin=https://gproject.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=135fc8757cb349dc89ffc7174ab2fd49:065008afac7cba180ac889a965fec7cc

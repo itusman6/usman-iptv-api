@@ -1,5 +1,5 @@
 #EXTM3U
-# generated: 2026-10-27T18:16:09Z
+# generated: 2026-10-27T18:24:32Z
 #EXTINF:-1 tvg-id="Amazon" tvg-name="Amazon" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",Amazon  [61 ch]
 ./Amazon.m3u
 #EXTINF:-1 tvg-id="Antik-Full" tvg-name="Antik-Full" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",Antik-Full  [199 ch]
@@ -18,5 +18,5 @@
 ./cignal-latest-geo.m3u
 #EXTINF:-1 tvg-id="converge-full" tvg-name="converge-full" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",converge-full  [103 ch]
 ./converge-full.m3u
-#EXTINF:-1 tvg-id="converge" tvg-name="converge" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",converge  [923 ch]
+#EXTINF:-1 tvg-id="converge" tvg-name="converge" tvg-logo="https://i.imgur.com/c7CDrvS.png" group-title="Playlists",converge  [922 ch]
 ./converge.m3u
